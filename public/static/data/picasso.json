@@ -1,0 +1,1524 @@
+{
+    "preference": null,
+    "pagination": {
+        "total": 402,
+        "limit": 100,
+        "offset": 0,
+        "total_pages": 5,
+        "current_page": 1
+    },
+    "data": [
+        {
+            "_score": 162.94122,
+            "thumbnail": {
+                "alt_text": "Painting, mostly in shades of blue, of a thin, bent, older man wearing ragged clothes and sitting cross-legged playing a guitar positioned upright in his lap.",
+                "width": 10020,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAD1APzM8QzZARTJASzhFTTBFYEFRVUtWVkFTW0NUXURVYlVkZFFqelFrfF56iAAAACH5BAAAAAAALAAAAAADAAUAAAQL0LHRlCgLpBMMIhEAOw==",
+                "height": 15000
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/28067",
+            "id": 28067,
+            "title": "The Old Guitarist",
+            "timestamp": "2023-12-02T23:33:35-06:00"
+        },
+        {
+            "_score": 153.33188,
+            "thumbnail": {
+                "alt_text": "Blue and brown Cubist painting of Picasso with painterǳ palette.",
+                "width": 5805,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGFeXW9iW3JlXVhdYm1sb39ya2tsc2FteWFufXt2cXN5f397eYB+fYd/fV9whWV0i4ODgYKAh4KDh4yPlQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYLIUQQMpQiQdhDExwOMgQwgAOw==",
+                "height": 7414
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/8624",
+            "id": 8624,
+            "title": "Portrait of Pablo Picasso",
+            "timestamp": "2023-10-20T18:06:32-05:00"
+        },
+        {
+            "_score": 148.30814,
+            "thumbnail": {
+                "alt_text": "Varyingly shaded geometric shapes compose the fractured image of a seated figure in a double-breasted jacket.",
+                "width": 2335,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJeLd52RfaSWgaqdh7aokLaokrasm8G3pMa7qdDHt9PJudfNvdjQwdvRwd3SwtrSxN/WyOHZyuPbzefe0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIKQ4EyIUzUEMiwEEScQ8UggAOw==",
+                "height": 2920
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/14435",
+            "id": 14435,
+            "title": "Portrait of Picasso",
+            "timestamp": "2023-03-01T03:05:43-06:00"
+        },
+        {
+            "_score": 145.68471,
+            "thumbnail": {
+                "alt_text": "Black and brown painting of man in suit composed of fractured geometric shapes.",
+                "width": 14269,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAF5aT2NdUGdlXXRuXmFiYXd1b3p1aHt1aHx2aHh1boB6a4d+aomAbYSAcoSAc4KAdYyKfoiIgpqTgbGuoQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoIIcwWJIw1QkzBMREOA0QggAOw==",
+                "height": 19874
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/111060",
+            "id": 111060,
+            "title": "Daniel-Henry Kahnweiler",
+            "timestamp": "2023-12-02T23:32:35-06:00"
+        },
+        {
+            "_score": 143.27548,
+            "thumbnail": {
+                "alt_text": "Cubist painting of woman, bright yellow, green, purple colors.",
+                "width": 22735,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABdZMShaPl1FPV5LOWxLO3peNitdQjVsR0NES3dQaYNFWZ5kRYNZecahWu/rcYlVg5xarI5dtqu1jcbIlQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDNFUCMxTxEQymAIyXIASAgAOw==",
+                "height": 30010
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5357",
+            "id": 5357,
+            "title": "The Red Armchair",
+            "timestamp": "2023-12-02T23:33:02-06:00"
+        },
+        {
+            "_score": 139.1345,
+            "thumbnail": {
+                "alt_text": "Painting of a woman in white dress with a baby in her lap.",
+                "width": 19691,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGBKP1pKQnlPRmNSSWtWTXZYTXxZTWpaUHpyboFjWYpoWY1sYJdyZZ5zZ4F+e6dxY61yY4WBfpuAeJuCeMOMfoiGgoyFgJ2UkKeLgb+cjKGXkqqmo7GqprWrpQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4NZxV6JFlSU9i4NRUMYgU2MohFAcQwCEADs=",
+                "height": 17354
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/109275",
+            "id": 109275,
+            "title": "Mother and Child",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 130.63045,
+            "thumbnail": {
+                "alt_text": "An abstract assemblage of highly colorful, textured, patchwork fragments vaguely form a moustached human figure and architectural elements.",
+                "width": 21289,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFpKQ2BSRmZVTmphWkNeYFhuZ2hqZ29saG5taWx6eHB3d3Z/fnl7eIFxa4Z8dQAAACH5BAAAAAAALAAAAAADAAUAAAQLkDCQUFjmqObKEBEAOw==",
+                "height": 31126
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/109260",
+            "id": 109260,
+            "title": "Man with a Pipe",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 129.51381,
+            "thumbnail": {
+                "alt_text": "A work made of platinum-palladium print.",
+                "width": 4056,
+                "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAACMgJCglKSgnKyspLDMuLzo0Nj86PEM/P0pCQ0tGRlVLS1tSUV9ZWm5iYXpvbX10c4J2dI6Cf5GFgpKFg5WJh56RjqOXlKyhnrivrAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYGNhVKUsDjQFRXRJCfMYyCEMABECADs=",
+                "height": 4098
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/94524",
+            "id": 94524,
+            "title": "Picasso at La Californie, Cannes, France",
+            "timestamp": "2023-12-02T23:19:30-06:00"
+        },
+        {
+            "_score": 125.83133,
+            "thumbnail": {
+                "alt_text": "Dark colored sculpture of womanǳ head composed of fractured geometric shapes.",
+                "width": 5433,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEhGQUdIQlBNSVdXUV5bVXl5dKKjoKSjocHAv93d3OPk4+Tn5Orq6urs6evs7Ozt7O7w7vb39vf39/n6+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoIQoUwIUEUMMjSMEy3MYUAgAOw==",
+                "height": 7240
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/66039",
+            "id": 66039,
+            "title": "Head of a Woman (Fernande)",
+            "timestamp": "2023-12-02T23:33:03-06:00"
+        },
+        {
+            "_score": 124.489426,
+            "thumbnail": {
+                "alt_text": "A recumbent, full-figured nude rendered in pink and gray geometric shapes, her hands above her head, on a gray and blue ground, a brown tree with sparse needles behind her.",
+                "width": 24397,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAF1maXVubGZwcWdxcWpwcnVzdHV0d3F6e3B8fnB9fotzcop0cYd4eIN8fI18fZV6eZh6eJCAf5B/gIWCgoeEhouAgoiHiJ2HhpaHiZCUlK2Jh6WRkKKUlamRkaiTk7CTkraWlLSbm7ahnwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQArikBhYMpiKQbG4cBgfCEjz2Eg6IY8jImoECgABYRIEADs=",
+                "height": 17083
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/23968",
+            "id": 23968,
+            "title": "Nude under a Pine Tree",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 124.09543,
+            "thumbnail": {
+                "alt_text": "Print of woman with distorted and exaggerated features holding handkerchief to face.",
+                "width": 7049,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHJpWnRsXX91ZH51ZoR5ZoZ7aod9bKebhaibhKqdhq2fhrKmj7eojbytksO0ms68n9C+odbDpNnGptrIqQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIPRIU1IokRAIjQEQzHIgTggAOw==",
+                "height": 9533
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/135430",
+            "id": 135430,
+            "title": "Weeping Woman I",
+            "timestamp": "2023-12-02T23:25:12-06:00"
+        },
+        {
+            "_score": 122.091324,
+            "thumbnail": {
+                "alt_text": "A work made of oil on cardboard.",
+                "width": 4603,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFpcVVthVGBgSndvSW5hUWtlWHJvVWxpYHJ1bYd+an2Feo6Da4iGcZmTfqWdi6SgkK+rnLS7q7u4qb68rAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBIIQ8QQBlIsDXAkzjNJUAgAOw==",
+                "height": 5060
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/45259",
+            "id": 45259,
+            "title": "Nude with Cats",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 120.26455,
+            "thumbnail": {
+                "alt_text": "A work made of oil on panel.",
+                "width": 12820,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGlNQnplXYBpYIl0ao95bIt+d4iAfIuKiY+OjZGIgoyUmoyXnpiVk5CWmpGWmpWlr5ulqZyuuJ23xKm8wwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIJQcklEIT4QEyuQAy8AQTQgAOw==",
+                "height": 16987
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/109278",
+            "id": 109278,
+            "title": "Abstraction: Background with Blue Cloudy Sky",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 117.667465,
+            "thumbnail": {
+                "alt_text": "A work made of oil on canvas.",
+                "width": 23912,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD5pb1x8b0ZvfXdxd3CBdEVqhVx6inB8iG6fsIyNjIybl6Gioq2ytLK0srm+vpi7xL7CwdLV0dne3dve3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAQ10bQkznMMDGIUSgAIRAgAOw==",
+                "height": 32473
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/84239",
+            "id": 84239,
+            "title": "Portrait of Sylvette David",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 117.256714,
+            "thumbnail": {
+                "alt_text": "A work made of oil on canvas.",
+                "width": 3576,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFRFOllJPWdPQWhVR2hXR29cTXFaTHdeTXpfTG9eUXZgT35hT3hlUIRpVoVrV45xW4x0XpJ3X5B3YZyAZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIFQMx6IkjmBIT0BEDcBMSAgAOw==",
+                "height": 4401
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/61612",
+            "id": 61612,
+            "title": "Nude with a Pitcher",
+            "timestamp": "2023-12-03T00:31:37-06:00"
+        },
+        {
+            "_score": 116.24225,
+            "thumbnail": {
+                "alt_text": "A work made of oil on canvas.",
+                "width": 14789,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADdGPjpGP0pURVlZS1xjW2RhTXNgSGRgUmhkUGxoU2dmWHptWltvZVp0ZFpzaH95Y3F4anp9b4t+YI1+YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHBATbBEjqAQTJE8yCBNRggAOw==",
+                "height": 17559
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/58625",
+            "id": 58625,
+            "title": "Head of a Woman",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 113.88974,
+            "thumbnail": {
+                "alt_text": "Thin, flat metal shapes form a loosely symmetrical sculpture atop a wide base. Near the top, radiating spindles form an open, cone-like shape.",
+                "width": 5484,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG9SQ3FSRHFWSnpfU3VlXXxpX4FgUYxwX4x5cJaBeIqMjIuMja2qqq+urr+1ssSxqMCzrMW7t9fV1Nzc3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoFIQC3MAjZQgUyQEkDMYTwgAOw==",
+                "height": 7320
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/25809",
+            "id": 25809,
+            "title": "Maquette for Richard J. Daley Center Sculpture",
+            "timestamp": "2023-12-03T00:31:47-06:00"
+        },
+        {
+            "_score": 113.31017,
+            "thumbnail": {
+                "alt_text": "A work made of oil on canvas.",
+                "width": 14989,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFlRTWpjXGtkXHJoX3VoY3drYnZsY3BqZHNrZHNvZ3lvZXNwaHNxaXZybH93a3l1bYZ+c4+CdZOCc5WGeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NMIEHMASxIUDmJMETFISggAOw==",
+                "height": 18651
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/11294",
+            "id": 11294,
+            "title": "Half-Length Female Nude",
+            "timestamp": "2023-12-03T00:31:53-06:00"
+        },
+        {
+            "_score": 111.734566,
+            "thumbnail": {
+                "alt_text": "A work made of oil on canvas.",
+                "width": 4331,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFdOO1lOPj1OQUhKQkxLRUNeW1NfXm9jS29oTXhlQ35nSkRcY1ViZ1ZrbmRtZWJwamp0dYBoV4x8WnyCdZaJZKaXc4eHhoeKjbSaiqyenaumnbKup9W3quPo7AAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoPQ4DNQgAXZZSyFw3TYYRJRpwFRRypGEADs=",
+                "height": 3514
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/79072",
+            "id": 79072,
+            "title": "Still Life",
+            "timestamp": "2023-12-02T23:26:33-06:00"
+        },
+        {
+            "_score": 110.91942,
+            "thumbnail": {
+                "alt_text": "A work made of pen and brush and black ink and brush and gray wash on blue wove paper.",
+                "width": 3511,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADIyLTQzLjw6ND89NT4+OFNSS1xcVGZoYm1vaHN3cnZ4cXZ5cnt+eH2Be36Be4WKhYiLhY+Ph4uOiIqRjJOYkpedmJifmp2hm5yjn6SsqKWtqK+3s6+5tbC5tbS7trK7ubO8ubi+urvDvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQEHAQOlIIgcAAaMBXRiJicVREQ0enEbm4ykoFgjIJhQEADs=",
+                "height": 2704
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/27955",
+            "id": 27955,
+            "title": "The Minotaur",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 110.70442,
+            "thumbnail": {
+                "alt_text": "A work made of gouache on tan wood pulp board.",
+                "width": 5922,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAExQUlZbXV1kaF9qcWBlaGVuc2RzfW96fnR8fnB8gXmDhnSDjXaFj3eGj36PmoKMkYKTnYiTmoyXnYyXngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIEQAzYIEQvMcgxMVxjQpSQgAOw==",
+                "height": 8190
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/68414",
+            "id": 68414,
+            "title": "Woman with a Helmet of Hair",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 110.284294,
+            "thumbnail": {
+                "alt_text": "Blue-green print of thin man and woman seated at table with empty plates and glasses.",
+                "width": 7866,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFBZV2JtaGdybXV6dHV7dX2EfYCHgICIgJGTipWZj6Okmauqn6yonbCwpLGxpLixpLiypL+2qMO6q8K8rQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUQIKMsUyEcDgEkaWAgEgRFIQA7",
+                "height": 10451
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/18709",
+            "id": 18709,
+            "title": "The Frugal Meal, from The Saltimbanques",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 110.284294,
+            "thumbnail": {
+                "alt_text": "A work made of black, orange, and blue crayons on cream wove paper, discolored to buff.",
+                "width": 3729,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAEI9NU5JP0hJR15YTl9cVGFcVGhfU2hhVG5kWG9nWnBnW3FqXHRuYHZtYn1xYX1yYn1yZH50ZYB0ZoJ4Z4R7b4l7aol+a4OBdouBdpWJdZOMe6GUfqSZh6mahK+jiLGljLOkjbarkMW4l8q9oc3AodDGqNnLqdnLqgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwAZCAYlIKiCMw7A5JB4WCmHS0QwAi4IgkAl5RCTOhfExnUqjIAA7",
+                "height": 2199
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/14839",
+            "id": 14839,
+            "title": "At the Cabaret",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 109.349335,
+            "thumbnail": {
+                "alt_text": "A work made of etching, with scraping and engraving, on copper in black on ivory laid paper.",
+                "width": 10592,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEdEP1hUTVtWT1tXUF9bVGNeV2ZhWmdiW2hjXGlkXGtmXWxnX2xnYHNuZnZwZ396cn96c4iCeYmDeo6If5CJgJCKgZGLgpGLg5SOhZmSip2WjKGZj6iglaihmK2lm6+nm7CpnrevpLqxpQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYfQM/jMRF9QhoBAGEwcDYLQoOhiFAEg4Kj2qF4MxhQEAA7",
+                "height": 7875
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/60065",
+            "id": 60065,
+            "title": "Minotauromachia",
+            "timestamp": "2023-12-02T23:25:07-06:00"
+        },
+        {
+            "_score": 109.26558,
+            "thumbnail": {
+                "alt_text": "A work made of etching on copper in black on off-white laid paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAKObi762pca9rMvDsc3Fs9PKuNTLudXNu9bNu9fOvNnQvtnRvtnRv9rRv9rSv9vRwNvSwNvTwNzTwN3Wx+TcyOTcyefey+jfzOfg0Ojg0Onh0eri0uvj0uzk0+3l1QAAACH5BAAAAAAALAAAAAAHAAUAAAUdIHdUlHV1EzAwQeFlgsMYyYYhCwFJGtdEisaDEwIAOw==",
+                "height": 2280
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/28769",
+            "id": 28769,
+            "title": "Bacchic Scene with Minotaur, from the Vollard Suite",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 108.09588,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on ivory wove paper.",
+                "width": 2278,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD04Mz86NUE8N0ZBO0hBPElDPUpEPktFQFBKQ1JLRVZPSF1WTl5XT2BYUGFaUmRdVGVeVWpiWXtzaQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoNMoQxFJgJAsAWIQxwMxTAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5180",
+            "id": 5180,
+            "title": "Bust with Star Background",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 107.80962,
+            "thumbnail": {
+                "alt_text": "A work made of gouache, watercolor, and black and ochre chalks, manipulated with stump and wet brush, on cream laid paper.",
+                "width": 6518,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAExBOF1LPlVORFpOQ21aRmNZTWlaSm5cSnRdSHVfTG9gUHRiUYVxW4RzXYl2YIl4Y6aUd7Ocfbqmhr2ohwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURILQ0k5AoUmEQ0QMEjHMMSAgAOw==",
+                "height": 8731
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/53111",
+            "id": 53111,
+            "title": "Head of a Woman",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 107.77339,
+            "thumbnail": {
+                "alt_text": "A work made of oil and chalk on canvas.",
+                "width": 12343,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG5wcXx9eX5+eY6NjJOPi5iXlaCUiq2gkqChoayqpq+tqKytq7Gvr7yyqrKzs8HBu8rKvsnHw9PQyNvYzQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOIwxgJJDXFM0ZA8ChAIRQgAOw==",
+                "height": 15259
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/75315",
+            "id": 75315,
+            "title": "Figure",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 106.48872,
+            "thumbnail": {
+                "alt_text": "A work made of pen and brown ink and colored crayons on tan wove paper.",
+                "width": 5009,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEdteUNvfVVzemt8fIiFdIyHdIOFeIWJeoeLe4OJf5yUfzRqgEdwgZ+YhbaghQAAACH5BAAAAAAALAAAAAADAAUAAAQLEBWTyGEgLDGachEAOw==",
+                "height": 7595
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/104306",
+            "id": 104306,
+            "title": "Beggar with Crutch",
+            "timestamp": "2023-12-02T23:24:45-06:00"
+        },
+        {
+            "_score": 104.66159,
+            "thumbnail": {
+                "alt_text": "A work made of watercolor and gouache, with graphite, on cream wove paper.",
+                "width": 2279,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGNGK31pTXh4XZldPI1uVol9ZJKJbJqVf62UYJybkKmdh7y4qsOvgsi4j8y5oca/rNPHo9DGstfKsdPNtwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIFMIEBIAzWIMUqIQT+QcUwgAOw==",
+                "height": 2827
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/34698",
+            "id": 34698,
+            "title": "Woman in an Armchair",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 104.60525,
+            "thumbnail": {
+                "alt_text": "A work made of mezzotint.",
+                "width": 718,
+                "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAACEdHyMeISwmJzUvLzcwMj44OkdAQFBKSVJLSlRNTAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIsBCUjhkigAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/215355",
+            "id": 215355,
+            "title": "Chicago Picasso by Pablo Picasso, from the series \"Viva Chicago\"",
+            "timestamp": "2023-03-01T04:21:35-06:00"
+        },
+        {
+            "_score": 104.124016,
+            "thumbnail": {
+                "alt_text": "A work made of bronze.",
+                "width": 1683,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGhpZHV2b3Z3boCBeo6OhZqakaysqLa2tbq5tr6+vb/AvsHCwcnJyMzMzMzMzc3NzdHR0dvb3Orq6+7u8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoJM0DzQQkSQU0wIECnMYSAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/20522",
+            "id": 20522,
+            "title": "Jester",
+            "timestamp": "2023-12-02T23:33:03-06:00"
+        },
+        {
+            "_score": 103.578125,
+            "thumbnail": {
+                "alt_text": "A work made of linocut in yellow, red, green and black on cream wove paper.",
+                "width": 6204,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADg7N04zK0kyL15BN1RdUW1fUXt2WKN0P5h1UqF6SZR4aph/cqN6Z7uCSpuOb4mHfZuEcpWFeJqPerKLb7qXa6qOf6SVf6SWfpWXhqGPgrivnrWwoMOsl8mvlwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoLZEErQ9wQAIFUYUFJJZRtIcF+dMCtOFADs=",
+                "height": 5142
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/22667",
+            "id": 22667,
+            "title": "Still Life with Glass Under the Lamp",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 103.41128,
+            "thumbnail": {
+                "alt_text": "A work made of oil on canvas.",
+                "width": 667,
+                "lqip": "data:image/gif;base64,R0lGODlhAQAFAPIAAKt2aK6AdbmJfbCtq8GakQAAAAAAAAAAACH5BAAAAAAALAAAAAABAAUAAAMEOCQBCQA7",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/28884",
+            "id": 28884,
+            "title": "Fragment of \"Mother and Child\"",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 102.16184,
+            "thumbnail": {
+                "alt_text": "A work made of graphite on tan wove paper, prepared with a white ground.",
+                "width": 2897,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAMjBs8vEt8/Iu9TNv9POwtXPw9XPxdfRxdjTyNzWy97ZzN3Z0N7a0ODazODc0eLc0OHd0+Pe0+Tf0+Le1OPe1OLf1uTf1eXg1ebi2Ofj2+jj2Ojj2enk2uvn3wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIKcNx/Z0lkBk1AQEBhNBSYEszoVJStWEADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/24205",
+            "id": 24205,
+            "title": "Nessus and Deianira",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 101.73433,
+            "thumbnail": {
+                "alt_text": "Sculpture of three flowers in different states of bloom in a simple vase.",
+                "width": 1688,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQTAH1wZ4V4boh5bY2DfJaFeJaMgqaemK2hmcW+u9HMydvW0+Ti4u7r6O3r6+/t6/Hw8Pn5+vr6+v3+/v///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIKIwTyIQixMAzWQMkXQUUAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5353",
+            "id": 5353,
+            "title": "Flowers in a Vase",
+            "timestamp": "2023-12-02T23:33:02-06:00"
+        },
+        {
+            "_score": 101.123116,
+            "thumbnail": {
+                "alt_text": "A work made of gouache on corrugated cardboard.",
+                "width": 922,
+                "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAHlqWYp9cIx/dJGBcZqOg5uPiqaYjbCkn7auq7+3tAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIMKFTzBCAhAgAOw==",
+                "height": 2455
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/119169",
+            "id": 119169,
+            "title": "Untitled (Devil)",
+            "timestamp": "2023-12-02T23:24:44-06:00"
+        },
+        {
+            "_score": 100.67797,
+            "thumbnail": {
+                "alt_text": "A work made of black chalk on cream wove paper (discolored to brown), laid down on cream japanese paper.",
+                "width": 1472,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALKUabGVbLOYb7agerihermhermie7qie7mifLujfL2kfr2mf76nf72mgL6ngAAAACH5BAAAAAAALAAAAAADAAUAAAQLkCFnRjtkpaJEABEAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/13574",
+            "id": 13574,
+            "title": "Study of a Seated Man",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 100.4623,
+            "thumbnail": {
+                "alt_text": "A work made of etching and aquatint on white wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJ6ckqSimbi2rbq5r9DNxdDOxdHPx9XTy9zb0t7d1ejn3+nn4erp4+zp4+3q5O/s5u7t5+/t6O/u6PDt5/Dt6PDu6PHv6fPw6/Py7PTy7PTy7fb17wAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4GRJmPZchJIcGVMgA7AtBiIEmUNVUNSEADs=",
+                "height": 2307
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/111389",
+            "id": 111389,
+            "title": "111, from 347 Gravures",
+            "timestamp": "2023-12-02T23:24:44-06:00"
+        },
+        {
+            "_score": 99.98669,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint on copper in black on off-white laid paper.",
+                "width": 3521,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADs2MGRfVXRtYnlzaIZ+caCYiKqgkbGomLyzor22qMnBsc3DstTKuNTLudjOvdvSvt3Tv9zSwd7VwNzUw9/VwuLYxePZxeTaxeTaxuXbx+XbyObcyOfezejey+rgzOvhz+zj0e/k0u/l0wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQEVg8KAYHAmA4LBgRCaEAqLh+XAuEkhGIwJhNhVLJxQEADs=",
+                "height": 2676
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/6079",
+            "id": 6079,
+            "title": "Minotaur Caressing Sleeping Woman, from the Vollard Suite",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 99.87336,
+            "thumbnail": {
+                "alt_text": "A work made of wood, metal, plastic, nails, screws, paint, twine, paper, and concrete.",
+                "width": 5412,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAAN3QwuTazuvj3PLo3+3m4e7t6vDo4fPs5vf39/n18Pr6+vv7+/7+/////wAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAQOcBWF2kismdMaEV0ANBEAOw==",
+                "height": 7216
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/109484",
+            "id": 109484,
+            "title": "Figure",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 99.49285,
+            "thumbnail": {
+                "alt_text": "A work made of color lithograph on ivory wove paper.",
+                "width": 1741,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAH1TP35URXphSH5tTolhOoFcT5NpRoJoWY1qXZBqV499W5VxW5VyXZd4a498dKl7aLiOZ6GTZMGTZcahhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoHMwTTFESSAoCEAYzyJBUwgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/76068",
+            "id": 76068,
+            "title": "Figure in a Striped Blouse",
+            "timestamp": "2023-12-02T23:24:45-06:00"
+        },
+        {
+            "_score": 99.36812,
+            "thumbnail": {
+                "alt_text": "A lithograph in black on ivory paper shows a woman's face and neck straight on. The few lines confidently define her facial features and bright, open eyes. Her long hair is described in tumbles and spiraling lines around her head.",
+                "width": 3974,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAL62pMK5qMi9qsi+qsq/qsvBr8zBr8zDr8vBsM/EsM/EstDGsdTJtNTJtdXKtdbLtN/VwOHWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoMMsj9EcghIxRAAdA1IASQgAOw==",
+                "height": 5136
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/83730",
+            "id": 83730,
+            "title": "Françoise",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 99.03663,
+            "thumbnail": {
+                "alt_text": "A work made of linocut on cream wove paper.",
+                "width": 1741,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG1nXHFrYHNsYHJtYXRvZHRwZHZyZ3t0Z312aYJ6bIeAcYqBcqufjK2ijbitl7uul72xmdHCp9PEqdfHrQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIDEURtBACiJFDrA80yEkTAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/122394",
+            "id": 122394,
+            "title": "1952 Exhibition Poster",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 98.98652,
+            "thumbnail": {
+                "alt_text": "A work made of gouache on paper on board.",
+                "width": 2191,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAH9kXX9rZo9yaJR+do+Efp+Kg6OPiKSUjambkrWelLqlmaqjocOxqMS6ssu9tc7AtsvCus3BuNjSy9nSywAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIDMUURIQjwIskyMYUnMgUAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/159631",
+            "id": 159631,
+            "title": "Harlequin",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 98.871254,
+            "thumbnail": {
+                "alt_text": "A work made of oil on canvas.",
+                "width": 3456,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIR6Y4V6Y458Yox/ZoR9aJCBZ5WEa52Lcp2Pc5+Pc56PdKKPdKeWe62efb6qhwAAACH5BAAAAAAALAAAAAADAAUAAAQL0KXSAkCDKGHYOhEAOw==",
+                "height": 6519
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/66159",
+            "id": 66159,
+            "title": "The Glass",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 98.3243,
+            "thumbnail": {
+                "alt_text": "A work made of graphite, with touches of erasing, on cream wove paper.",
+                "width": 2739,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMO6qczDsc3Ess/Fss/Fs9DIttLJt9PKuNXLudbMudfNu9jOu9nPu9jOvNvRvdvRvt7UwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoLM00AAERCIUB2Mcy6MgSwgAOw==",
+                "height": 3683
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/61867",
+            "id": 61867,
+            "title": "Pierrot and Harlequin",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 98.21816,
+            "thumbnail": {
+                "alt_text": "A work made of white chalk on plywood.",
+                "width": 4902,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJ5mLqBmLqNpLqNtOK14Qq55Rr2bd76eeL6ee8CeecGhe8GhgcWnh8qqh8qukc26os66pc+7ptC9pwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIQgEDMAhlMQzRIIiXQoTwgAOw==",
+                "height": 5704
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/28019",
+            "id": 28019,
+            "title": "Richard J. Daley Center Sculpture",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 98.180046,
+            "thumbnail": {
+                "alt_text": "A work made of pen and brush and black inks, graphite, and colored crayons, with smudging, over incising, on cream laid paper.",
+                "width": 6174,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAD87Nk1HPDtERjtJTk9OQUtNSUpQTl1aSFpYT11YT0NXV09YU1BVU2ZbRGxgTm5iT3FlTWNkW2pnWHVjWnZuXnloWXpvXn5xXEpbYF9xcWFsbGhuaXtzZHZ2aXR3bm11cHl8cINWNohYPIZxXYt6X418XqWQdr+jfwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwMgH8ZAQDhDNAFCxOEqNAkbA4JxEoUDGowCZJiPDJrHoUC6kIAA7",
+                "height": 4104
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/117694",
+            "id": 117694,
+            "title": "Minotaur and Wounded Horse",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 97.22143,
+            "thumbnail": {
+                "alt_text": "A work made of colored crayons and colored pencils, with smudging, on cream wove paper.",
+                "width": 5969,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAIyHb42Kco6OeZCHfpWOeKmZdqCQeLihf1t6goqRhJichI6clqifjLmhhbujhLmgiLyiiKijla+qlbKmkb2pkL2rlbmvmbmwlL67qcCwkMGzm8O+qtC4ocPCrgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoEVpmwJMTdUFhJRxmHAxzoAkBvRES3GEADs=",
+                "height": 4656
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/28631",
+            "id": 28631,
+            "title": "Man Holding a Sheep, Flutist, and Heads",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 96.743904,
+            "thumbnail": {
+                "alt_text": "A work made of watercolor and gouache on cream laid paper, laid down on buff laid paper.",
+                "width": 2219,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFpJNV1OOV5SPWZVQIV+aZiDZZOCaZ2UeqiZgqqbgq2cgrKghbCgibeokb2tlLyslcCwmcCxmsS1ndbHrgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoFMYDAIIRDIEh6QszxQ1UAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/20558",
+            "id": 20558,
+            "title": "Bust of a Woman",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 96.48528,
+            "thumbnail": {
+                "alt_text": "A work made of watercolor and gouache, over graphite, on tan wove paper.",
+                "width": 7806,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHlmVX9oWYVvYo98bpB6aJN+bZZ/b5yBcaWSgKmZicaukMCtlMKslMGumNW9odW+oNvDpdrEpt7Fp9jCqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoIQkECMUThMMEwMYkUIcTggAOw==",
+                "height": 10227
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/79377",
+            "id": 79377,
+            "title": "Seated Female Nude",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 96.132195,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory wove paper.",
+                "width": 2955,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHBuZHNxZnRyaHZ0and1anl4bJWRgpiUhpqWh5uXiJ2bi6ajkqqnla+qmrGsm7KunLOvnbaxnbizn7m1ocK9qcK9qsnEsMrFsM7IstHLs9HMttLMuNXQudfRu9nSudnTvNrUv9vXv+vlywAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQE8EE2IECJmJ6KIoACQczWdBSRgqoA7kgHhYNg7BoBEEADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/22649",
+            "id": 22649,
+            "title": "The Sleeping Woman",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 95.423996,
+            "thumbnail": {
+                "alt_text": "A work made of book with 12 etchings hors-texte, 67 wood engravings, and crayon, with black morocco binding.",
+                "width": 907,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEE+NkQ+NUM/O09IPk9LQlFNSFVQRFdRS1VRTVtXTF5YTWFaTWBcUWNdUmNfVGVfWmhjV2lkWG5oY3VuZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIPJIE3EUwtIwQ5BEhuJAQAgAOw==",
+                "height": 1200
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/111479",
+            "id": 111479,
+            "title": "Le Chef-d'oeuvre inconnu (The Unknown Masterpiece)",
+            "timestamp": "2023-12-02T23:25:08-06:00"
+        },
+        {
+            "_score": 94.8735,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black, brown and blue on ivory laid paper.",
+                "width": 2302,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKObkaulm7exp723rcS+ssfCt+Te0efh1Obi1ujj1url2Orn2uzo2+3p3e/r3vDt3/Hu4fHu4vLv4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4IMsTjMUEBIIUQIQEmMcSggAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/6140",
+            "id": 6140,
+            "title": "Portrait of Jacqueline",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 94.72464,
+            "thumbnail": {
+                "alt_text": "A work made of graphite, with stumping, on cream laid paper.",
+                "width": 1667,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAANvTw9/XxN/YyODXw+DYxePbyOLazOffzOfgzefgz+jhzuni0+vl1uvl1+zl1e/o2+/p3PDp2PDp2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4CAAytEYRCEtQfI8kQMxSAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/51364",
+            "id": 51364,
+            "title": "Two Nudes, Standing",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 94.72464,
+            "thumbnail": {
+                "alt_text": "A work made of pen and brown inks, over traces of charcoal, on cream laid paper (discolored to buff).",
+                "width": 4132,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAOfQue/Xv+vXwO3XwO/cxfLZwfDaw/Haw/Lbw/DaxPHbxPDbxfLcxPPex/XexgAAACH5BAAAAAAALAAAAAADAAUAAAQLkIg2ADPBqYLWSREAOw==",
+                "height": 6045
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/6560",
+            "id": 6560,
+            "title": "Peasant Girls from Andorra",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 94.624435,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on ivory wove paper.",
+                "width": 2877,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPMAAPft2vft2/ju3Pnu3Pnv3frv3fnw3frw3fnw3vnw3/rw3vrw3/vw3/rx3/vx3wAAACH5BAAAAAAALAAAAAAGAAUAAAQWMDXnGEPGELUSCYCgJMhRKAVxmMUQAQA7",
+                "height": 2382
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/21112",
+            "id": 21112,
+            "title": "On the Beach, I (Two Nude Women), from Quatre Lithographies",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 94.54371,
+            "thumbnail": {
+                "alt_text": "A work made of color lithograph on ivory wove paper.",
+                "width": 5484,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFdIPWhYSGpfTndSQnVTRHhVR2ldUH5hTXZkUHJmVIqCbo+DcIuEcY2GcZ6SfJ6TfKyObbSjfaKah6ufhKyhh6ykja+mj7Cjh7mqjbqsj7+ymMCzlMu7mNHBnAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoMV1zyI1ESQEE0MUBuAox5AgWLVl1KWFADs=",
+                "height": 4224
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/83732",
+            "id": 83732,
+            "title": "Composition with Vase of Flowers",
+            "timestamp": "2023-12-02T23:24:45-06:00"
+        },
+        {
+            "_score": 94.19486,
+            "thumbnail": {
+                "alt_text": "A work made of graphite, with traces of erasing on off-white wove paper.",
+                "width": 3938,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAOng0urg1O3j1u3j1+/l2O7k2e/m2vDm2vDn2vDn2/Hn2/Dn3PDn3fHo3fHo3vPp3vTq3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYFAYQ8I4D8IsCgE1B3AgQggAOw==",
+                "height": 5042
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/20241",
+            "id": 20241,
+            "title": "Portrait of Eugenia Errazuriz",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 93.48951,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint on copper in black on ivory laid paper.",
+                "width": 4358,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAANPKuNbNutrQvtvRv9zSvt7TwOPbyObezOjfy+jfz+vh0O3k0u3k0+3l0/Lq1fHp1vPr2Pfu2/jv2/nw3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4GEgjiIQETMU0wIEUtI8UAgAOw==",
+                "height": 5648
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/6157",
+            "id": 6157,
+            "title": "Still Life with Bottle of Marc",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 93.43446,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on ivory wove paper.",
+                "width": 1716,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAH96bIeBcp2Wg52WhKGZhqWdiqaeiqihjK2mkq6nk7Kok7atl7WtmLetmL62ncC1nsm/qM3Dqc7DqeHUtwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBQ5kzIID1EEQLMcBoQwSQgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/29944",
+            "id": 29944,
+            "title": "David and Bathsheba",
+            "timestamp": "2023-12-02T23:24:46-06:00"
+        },
+        {
+            "_score": 93.20069,
+            "thumbnail": {
+                "alt_text": "A work made of graphite on cream laid paper (discolored to tan).",
+                "width": 1736,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALOhirunjL2pj72qj7+rkcmzmNK6m9W9n9a9n9e9n9O9oNS9oda9oNa+oNa+ode+odm/otfAoNrAogAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYBQMRgEQAvJITAJBzbE4SggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/124769",
+            "id": 124769,
+            "title": "Dancer",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 92.836105,
+            "thumbnail": {
+                "alt_text": "A work made of charcoal, with stumping, on cream laid paper.",
+                "width": 1706,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIeCc5WQf5iSgJmSgLevmsK7osjBqs/GrdLJsNfMs9XPuNvRudvSut3SuN3UvN/UvN/VvODVu+HYwOXawQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoGIEhcMAwhMRgzQtR9JASAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/75420",
+            "id": 75420,
+            "title": "Fernande Olivier",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 92.55573,
+            "thumbnail": {
+                "alt_text": "A work made of pen and brown ink, with brush and brown wash, and gouache, with touches of wiping (recto), and brush and gray wash, with touches of white-gray gouache and red wash (verso), on off-white white wove paper.",
+                "width": 1675,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAI18b4h9dIp/d46EeJiUeZqQfqaVfZuOgp2Og5GSgp2ZgayWgLCWgrCYhrOah7Cdjp+mirigjbionrmqnwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4PEAUhA1k8A4yGAsRUIoUAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/145870",
+            "id": 145870,
+            "title": "Seated Woman (recto); Study (verso)",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 92.037636,
+            "thumbnail": {
+                "alt_text": "A work made of pen and brown ink, with colored crayons and charcoal applied with stump, over graphite, on blue-gray laid paper (discolored to brown).",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAGteTV9lW15mW2piUW9jUGpnV3RqVHVrVHVqV39qUntyX3N2Zn11ZIRzW4F1XYp5XoZ5YoJ5Zot/Z4l+aZB7YYmAZ4yDbJOCZpWFbJaIb4mHc5CKdZmKcJuMcZ+Qc52QdJ+QdaOTd6iVdaOVfKKWfqaXfaeYegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQEZJstEoSKPIxSAIICCmycOyIAAKn4zIU0kcBh1OCMShNByYIAA7",
+                "height": 1832
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/29909",
+            "id": 29909,
+            "title": "Study for La Coiffure",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 92.01302,
+            "thumbnail": {
+                "alt_text": "A work made of color offset lithograph on ivory wove paper.",
+                "width": 1644,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEY7OFhBN25KOGhdTm5uZ3FzaH91aYZHL4V7V4J5YYB6cJqOdJuadaKahqqsgLm3ls3HtM/MudDEsdzUvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGMwTzIgTiEcCwEEigRFUwgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/62724",
+            "id": 62724,
+            "title": "Pierreuse, Her Hand on Her Shoulder, or Waiting (Margot)",
+            "timestamp": "2023-12-02T23:24:46-06:00"
+        },
+        {
+            "_score": 91.93891,
+            "thumbnail": {
+                "alt_text": "A pencil drawing on cream paper of a woman from the waist up. She is portrayed in three-quarter view and wears a double-breasted jacket or coat with a striped scarf around her neck. Her long hair is down, brushed away from a face that looks alert and confident.",
+                "width": 3743,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKGYhKKahauhjKyjjK2jjbCnj7Kmj7Kpkbmsk7mslbywlsS4nsq9os/BpM/BptbGqdjIq+DQs+TTtOTUtgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIIQ8UkI4kyEsERAMjFIcTQgAOw==",
+                "height": 5138
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/186337",
+            "id": 186337,
+            "title": "Portrait of Nusch Éluard",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 91.8519,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAB8bGCsnIi4pJTMuKTYxLDczLE5JQlZRSV5YT29oXnNsYn11aoV/dI2FeZCIfJOMgJuViaKbjqabjaiekLSrnbqwor21p8K5qce8rMm9rMnAsMrAsdbKueLWxOndy+3hzu/m1PLl0fjs2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwJBHBLJsPh1D4nEgODAABKQhUEwGjEghsMhIKJpLhRMEADs=",
+                "height": 2279
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/83649",
+            "id": 83649,
+            "title": "The Black Bull",
+            "timestamp": "2023-12-02T23:24:45-06:00"
+        },
+        {
+            "_score": 91.751724,
+            "thumbnail": {
+                "alt_text": "A work made of graphite on ivory laid paper (discolored to cream).",
+                "width": 7599,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKeekLqvn76yob+0pMa5p8i8q9HDr9PFsNrMut7QvOLTwOPUweTVwOXWwOXWwuTWw+bXwujZw+naxuzcxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIGQcUEQAySQEEDQUkLQgSggAOw==",
+                "height": 9770
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/40689",
+            "id": 40689,
+            "title": "Léonide Massine",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 91.58727,
+            "thumbnail": {
+                "alt_text": "A work made of watercolor on cream wove paper (discolored to tan).",
+                "width": 2969,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAK+fhsO4n8a7oMi8ocq+pNLGqtTFqNTGqNXGqNDFrNLHrNbIqdTJrdfJrNbJr9jLrdfLsNfNstvPswAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoKQkTjQIDAQET0MUS4McRggAOw==",
+                "height": 3819
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/66023",
+            "id": 66023,
+            "title": "Head of a Woman",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 91.30411,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph from a zinc plate, with scraping, in black on ivory wove paper.",
+                "width": 2301,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACAcGSUhHUdDPlFMR2RgWmViXGplXmlmYGtnYnl1bnt2bn15cYmDe46JgY2Jg5GNhZGNh6WhmaunoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHQkTyEwCzIoDREAhuQ4UQgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/22655",
+            "id": 22655,
+            "title": "Jacqueline in Profile to the Right",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 91.291084,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAJOGcaGUfaiaha2fiLKkjLqslL6vlsKzmsa2nM6+pM+/pc+/ptLBp9LCp9LCqNPDqNXEqtzLsN7NseHQtePSt+bVuOfVuurYvOvave3bvvHewPHewfLfwfPgwvPgw/PhxfbjxfXjxvbjxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQJFlgoEsPhpFwtCQdDYCQGBQ4HgyBwKiArowHo4IJRQEADs=",
+                "height": 2236
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/83858",
+            "id": 83858,
+            "title": "Dove in Flight",
+            "timestamp": "2023-12-02T23:24:45-06:00"
+        },
+        {
+            "_score": 91.212685,
+            "thumbnail": {
+                "alt_text": "A work made of brush and black ink and gray wash, with scraping and touches of pen and black ink, on ivory wove paper.",
+                "width": 4002,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAC4vMDEyMjk4OD08O0NAPUxJRVtWUGZiW2tlXXBpYHpzZ4h+cZ2UhLOplsC0oAAAACH5BAAAAAAALAAAAAADAAUAAAQLcJgiWApogeOIahEAOw==",
+                "height": 6685
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/158479",
+            "id": 158479,
+            "title": "Head of Young Boy",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 90.921074,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFRPR2ReVWdgVnpzZ353aoiAc5qRgZuSgqKYh6WcjKedjKecjaedjaidjauhka2ikq+kk7GmlLOpl7WqmLasmbitm7itnLqvnr2xnr2yn8W5pca7p8e7p8e7qNbKtdzPut3QuuXZwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwNAGA9FYLiHJBFBILDwEgyDg+GQGB4TiUQFxKJEGoxMEADs=",
+                "height": 2243
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/83719",
+            "id": 83719,
+            "title": "Two Nude Women",
+            "timestamp": "2023-12-02T23:24:45-06:00"
+        },
+        {
+            "_score": 90.41525,
+            "thumbnail": {
+                "alt_text": "A work made of pastel, with stumping and incising, over touches of charcoal, on gray millboard, laid down on tan cardboard, fixed.",
+                "width": 4228,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEdEQUpDQEpEQEtEQExFQE5FQU5HQk5IQ0tIR1JJR1hLQVxNRGFQRGZQRmxTSGxVSHNWR3VVR3FUSH5aSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4OQ0UJQghcQowQMIw3IYRAgAOw==",
+                "height": 5717
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/80592",
+            "id": 80592,
+            "title": "Young Woman with a Hat",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 89.7574,
+            "thumbnail": {
+                "alt_text": "A work made of sugar-lift aquatint on white wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAF1YU6eim6ejm66on8XAts3JwNXQx+Hc0+Lc0ujj2vTu5fbx5/r16vr26/r27Pv37fv37vz27Pz37vz47v347v357/768P778P778f/78v/98v/+9P//9gAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4ONcExVBC4EoEicAQ5BVSWEcVGNtGsaEADs=",
+                "height": 2328
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/36965",
+            "id": 36965,
+            "title": "207, from 347 Gravures",
+            "timestamp": "2023-12-02T23:24:46-06:00"
+        },
+        {
+            "_score": 89.69858,
+            "thumbnail": {
+                "alt_text": "A work made of aquatint and sugar lift etching, with scraping, on copper in black on ivory wove paper.",
+                "width": 2981,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAE9LQFVRR1hTSFpWSVtXTGVhU2ZiU2pkVnFrXXhyYXt1ZH54Zn95Z4N8a4V/a4eAb5GKd5CKeZSOfpWPf52Uf5mUg5yVhaGbiKWfi6WfjK+mj6qjka2mlLGqmLexnsK6osK7qMe+qNLHrQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwI9GRIE8QpjBwmEobDICRSPB4FwAhMAB0fFEJpKKBRQEADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/4443",
+            "id": 4443,
+            "title": "Variation on the Theme of Las Meninas: Visitors to the Studio",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 88.0499,
+            "thumbnail": {
+                "alt_text": "A work made of pen and black ink, with brush and gray wash and scraping, on cream wove paper.",
+                "width": 2839,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJ6Qfaubhaybhbuqk8Guk8GulMCulsa1msi1m8q2nMq3ncm3n8q4ncy4nM25nsy6n866n8+7oNO+odW/otS/pNfCpdjDpdrFqd/Kq97IrOLMreXOrujRtOrTtAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYINdliQBoWxNMBWVhl6EgUCURw8E8kbOEADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/117552",
+            "id": 117552,
+            "title": "Double Flute Player and Reclining Nude",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 87.99955,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory wove paper.",
+                "width": 2955,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIWCd4eDeJCNgJSQhJWRhZaThZmViJmWiZuXiqGcj6KekKWhkqijlK2qmrCsm7m1pLq1pr+6p8C7qsK8qsO9rMS+rcvGscvFs8vGtNDLttTOvNbSvdfTvdnUv93XwuHZx+HaxujiywAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwEdkYuFsQoiDQuDIeAIIA6DQ6CwIFMYgAcJANJJL5RMEADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/83844",
+            "id": 83844,
+            "title": "Centaur and Bacchante with Faun",
+            "timestamp": "2023-12-02T23:24:45-06:00"
+        },
+        {
+            "_score": 87.96587,
+            "thumbnail": {
+                "alt_text": "A lithograph in black on ivory paper presents a stylized portrayal of a young girl with a doll. She is depicted in three-quarter view. Curved and radiating lines convey the curvature of her cheeks and chin. Her dark hair is cut in a short bob with bangs, and she wears ruffled shirt.",
+                "width": 7798,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG5qZHp1bnt1bn96cX96coN9dIqDepCKgJyUiaKZjqSckK6ll7WqnL2yo8G2p8a5qs3AsNnLud3PvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoCIQhyEUwFIghMQkUOQ0TwgAOw==",
+                "height": 10517
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/45322",
+            "id": 45322,
+            "title": "Paloma and Her Doll on a Black Background",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 87.9152,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on ivory wove paper.",
+                "width": 1669,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFBKQmFaT2dgVX51ZoF3aIh/bo2Dc5GGdJOIeKKWg6ibh6yeirGijrGjjrSlj7qrlLuslr+wmL6wmcy8owAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BQVwyIlwAMpgnMEBNMYSAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/55639",
+            "id": 55639,
+            "title": "Faun Musician No. 5",
+            "timestamp": "2023-12-02T23:24:46-06:00"
+        },
+        {
+            "_score": 87.8813,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint on ivory wove paper.",
+                "width": 1347,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKCKZ6KMaK+XcL6riL+riceyjMizjcmzjs+4kuHMqOnVr+bTsejVsurYs+rYtQAAACH5BAAAAAAALAAAAAADAAUAAAQLkKWFxDGBFDCachEAOw==",
+                "height": 1993
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/37258",
+            "id": 37258,
+            "title": "The Two Saltimbanques, from The Saltimbanques",
+            "timestamp": "2023-12-02T23:24:46-06:00"
+        },
+        {
+            "_score": 87.71047,
+            "thumbnail": {
+                "alt_text": "A work made of graphite on ivory wove paper.",
+                "width": 4023,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAOHX0uLY0eXc1ufe2Obe2eng2ung2+3k3/Hn3vLn3vPo4PPp4fPq4vXp4fTp4vTq4vXr5PXs5fbs5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDIETWQADkQID3QUEsIsSQgAOw==",
+                "height": 5445
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/150825",
+            "id": 150825,
+            "title": "Pierrot",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 87.71047,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory wove paper.",
+                "width": 2331,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAI2Fd5uSg7CnlrOqmL20osC2pNzTwN/Ww+LYxOPZxufeyejfzOnfzO/m0vDn1PHn1PPq1fPq1/Tp1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoLQcD1MAiUEEyDEIStQ4UAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/83704",
+            "id": 83704,
+            "title": "Reading",
+            "timestamp": "2023-12-02T23:24:45-06:00"
+        },
+        {
+            "_score": 87.58953,
+            "thumbnail": {
+                "alt_text": "A schematic lithograph in black on ivory paper shows a young child riding a tricycle on the left while another young child pushes a car on hands and knees. Above them a woman lies on her stomach reading.",
+                "width": 5544,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIiEeI6LfI6LfZSQgZmUhZyWhqKdjKOejqSejaWgj6qjk6qkkqqkk62mlLCql7SumbWum7avm7WwnLexnLeynbmxnrmynrqzoL63o8C4pMG6pM7Er9TLsdTLstbMs9jPttvRuOjdwezfwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQFHoA+pEMJyHhKKZJAwBAWDhODAGBYTnkrE0IBWCYhMEADs=",
+                "height": 4224
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/22652",
+            "id": 22652,
+            "title": "Games and Reading",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 87.467445,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint with scraping and engraving on copper in black on off-white laid paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAMG+sNDMv9DNwdLPwtTRxdrXytvXzdrYy9vYzNvZzN7c0ODd0OLf1ebk2ufl3Orp3+ro4Ovp4erq4Ovq4Ozp4uzq4uzr4+3s4+7s4u7s4+7s5O/t5O7s5fDu5vHu5/Hv5yH5BAAAAAAALAAAAAAHAAUAAAUdoEdBTlN9lUEsQ9FFDAEcwqVhSpAg1pZJD8mEEwIAOw==",
+                "height": 2280
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/33324",
+            "id": 33324,
+            "title": "Blind Minotaur Led by Little Girl with Flowers, from the Vollard Suite",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 87.37953,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory wove paper.",
+                "width": 2288,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMO6qdbOvNnRwNvSwNzUwtzUw9zVxd/Xxt/Yx9/YyOHZyOHayOLayeLbyuPcy+TczOXdzOXezebezgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBBGMUwZMchNIIwOIgQwgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/6143",
+            "id": 6143,
+            "title": "Head of a Woman, Three-Quarter-Face",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 87.07604,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on ivory wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACgqKCosKistKy8xLjM1MTc4NEVFP0VFQEpKQ0xLRU9OSE9PSFVUTFZWTltaUVxcU2BeVmNiWW9sYXBuYnFvZHRyZnZyZnd0Z3t4an16bIB+cIeCdI+KfZCMfJ2Zh6GciaWhjdbOtP/31gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAyicVgYNhNAwAEqXCSEjyg0wFQong5DYNEoIJHEgxMEADs=",
+                "height": 2231
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/68138",
+            "id": 68138,
+            "title": "The Dove",
+            "timestamp": "2023-12-02T23:24:46-06:00"
+        },
+        {
+            "_score": 87.05797,
+            "thumbnail": {
+                "alt_text": "A work made of pen and brown ink and watercolor, with blotting, on cream laid paper.",
+                "width": 1493,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHRqWX9+cpB7X5d7Y6F+a6t+aISAbZyPdKuPc7KVd6KQgayZhrKZhLmagcqmigAAACH5BAAAAAAALAAAAAADAAUAAAQLcLGmkAsnGSBIGREAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/107709",
+            "id": 107709,
+            "title": "Woman in Profile",
+            "timestamp": "2023-12-02T23:24:41-06:00"
+        },
+        {
+            "_score": 87.05797,
+            "thumbnail": {
+                "alt_text": "A work made of etching on zinc in black on ivory laid paper.",
+                "width": 2223,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADAqIk9GOVVMPmheTmlhVGlhVXJmVXtxY31zZIB0YZKGdpiLepmMeZyRgaOVgbaolc/Br9PFstfJtuDRvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYKMsDxEYTAEkDiIMxxRBUggAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/66966",
+            "id": 66966,
+            "title": "The Frugal Meal, from The Saltimbanques",
+            "timestamp": "2023-12-02T23:24:46-06:00"
+        },
+        {
+            "_score": 86.76524,
+            "thumbnail": {
+                "alt_text": "A black print on ivory paper shows a large nude fawn kneeling as he lifts the bed covers from a nude sleeping woman on a bed on the right. Her figure is presented in a much less detailed fashion, mostly an outlined form, while the rest of the scene, the fawn and the room's interior, are rendered with greater detail.",
+                "width": 5643,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFtVS1xXTmFcUmJcU2VdUmRfVmxkWm1mW3RtY3hvY3hwZXtyZXtzZ311aH92aX93a4d+coeAdI2Edo2EeI+IfJGGeJKHeJKIe5WLfZaLfJeMfZeNfpiNf5yRgpmRhJ2ViKibiqidjLasnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQE8hMDgYLqKOApAgICibUKNieUQEGAYHBPlINJmFYxIEADs=",
+                "height": 4271
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/105525",
+            "id": 105525,
+            "title": "Faun Uncovering a Sleeping Woman (Jupiter and Antiope, after Rembrandt), from the Vollard Suite",
+            "timestamp": "2023-12-02T23:24:50-06:00"
+        },
+        {
+            "_score": 86.69102,
+            "thumbnail": {
+                "alt_text": "A work made of graphite on ivory wove paper.",
+                "width": 7125,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALuyp8e9sdbKvNjMvdvPwt7SwuDUxeTXyObZyufay+nby+rdzevezuzfzwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLsIXBgEinMCKUSREAOw==",
+                "height": 10945
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/28024",
+            "id": 28024,
+            "title": "Six Busts of Women",
+            "timestamp": "2023-12-02T23:33:00-06:00"
+        },
+        {
+            "_score": 86.522415,
+            "thumbnail": {
+                "alt_text": "A work made of brush and black ink and gouache on cream wove paper, folded.",
+                "width": 1732,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFxzamF0dGt+cW1/eWl9fX+FdGd5gGt8gW19gm1/hW5/hWqCg22CgW2AhW+EhW+Hhm+BiXqIgHuJiXaJkQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIEAwgoM0w5MY0QIFxaQcUggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/150824",
+            "id": 150824,
+            "title": "The Faun Musician",
+            "timestamp": "2023-12-02T23:24:42-06:00"
+        },
+        {
+            "_score": 86.21713,
+            "thumbnail": {
+                "alt_text": "A work made of black and colored crayons on brown-gray wove paper, discolored to tan, laid down on cream board.",
+                "width": 3257,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAI+DbZOGbJmKcJqMdJ2PeZyQdpyRe6eMZKWWbKCRdaOTdqiSd6GTe6WSeKOWe6WVeaCTfKeYfKiafKqbf66ZfK2df62ff5uXipuXi6SahKueg66jh6igjAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4PBMUcUtgpMEGAUZCnA1jFQgmRZZxLGFADs=",
+                "height": 2545
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/184873",
+            "id": 184873,
+            "title": "Painter and Model",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 86.15908,
+            "thumbnail": {
+                "alt_text": "Large painting, standing man blue turtleneck, sitting woman with white collar",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAANnOu+DVwuLXw+PYxObbxufcx+neyerfyurfy+vgzOzhze7j0O/k0e/l0fDl0fHm0fDm0vDm0/Hn1PLn1PHo1PLo1PPo1PLp1fPp1QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIFZVUGRFRAIMzGQcQdJICiIUy0VVlvOEADs=",
+                "height": 2336
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/122451",
+            "id": 122451,
+            "title": "Bald Painter Before his Easel, plate six from Le Chef d'oeuvre inconnu",
+            "timestamp": "2023-12-02T23:24:44-06:00"
+        },
+        {
+            "_score": 86.13967,
+            "thumbnail": {
+                "alt_text": "A work made of text and cover with 67 wood engravings, bound with black tooled leather spine gilded with the title, artist and date, and corners over canvas-covered boards embellished with an impression of the cover wood engraving in gold. 12 etchings hors-texte stored separately..",
+                "width": 2360,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADIwLDs4Mzo4ND07OEE/O4uEdY6HeLy0n761oL62oMq+l8G4osa8pca9qci/qc7Do8jAqMjAq8zErc7FsgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIA0BiE9zgApiRBNC3AwRQgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/111374",
+            "id": 111374,
+            "title": "Le Chef d'oeuvre inconnu",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 85.96365,
+            "thumbnail": {
+                "alt_text": "A work made of aquatint and etching on copper in black on white wove paper, laid down on cream japanese paper (chine collé).",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAMa8q8i9q8i9rcm/sMvBsc7EsdDFtNLHtNDGttHHt9PJttTJttHHuNPJudTKudjOvdzQutvQv9/TvN/TveDUv+DVv9/VwN/WxuPYwuPYw+TYwuTZw+fbxOrdwOvewendwurdwuvew+vexOzgxO3gxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwI8ms6lYJh3QgnFpAAqezyFhcDwUIVFkQBAgAiASh4KpQCSjIAA7",
+                "height": 2011
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/62349",
+            "id": 62349,
+            "title": "The Dream and Lie of Franco (Plate I)",
+            "timestamp": "2023-12-02T23:24:49-06:00"
+        },
+        {
+            "_score": 85.82507,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint with plate tone on copper in black on ivory laid paper.",
+                "width": 2161,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFpXSWBbTWFeT2NfUW1pWW9pWnhxYoF5aYR/b5iSg6KbiqGci6Sej6mklbCrnrexoLexpbu2qsC6qwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBEUxwAQAqI8RJNIDBQ5SwgAOw==",
+                "height": 2917
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/41433",
+            "id": 41433,
+            "title": "Portrait of Fernande Olivier",
+            "timestamp": "2023-12-02T23:24:47-06:00"
+        },
+        {
+            "_score": 85.72173,
+            "thumbnail": {
+                "alt_text": "A work made of graphite and red crayon and oil paint on paper mounted to plywood.",
+                "width": 2178,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG9QDHdbHV9cNVZcOWdQInxfIlhrO3ZiNTxoSD1pUTtrYlV0SVVvXIdvNYRrPnyBW5SAU6aTSqiYdK6giAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDNBQSE1gPBEx6AwxJIgRggAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/117328",
+            "id": 117328,
+            "title": "After Picasso",
+            "timestamp": "2023-03-01T04:35:55-06:00"
+        }
+    ],
+    "info": {
+        "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.9"
+    },
+    "config": {
+        "iiif_url": "https://www.artic.edu/iiif/2",
+        "website_url": "http://www.artic.edu"
+    }
+}

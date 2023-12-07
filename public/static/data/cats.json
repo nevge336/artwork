@@ -1,0 +1,1514 @@
+{
+    "preference": null,
+    "pagination": {
+        "total": 7343,
+        "limit": 100,
+        "offset": 0,
+        "total_pages": 74,
+        "current_page": 1
+    },
+    "data": [
+        {
+            "_score": 134.94586,
+            "thumbnail": {
+                "alt_text": "A bronze lion, deep green and muscular, looks out in the distance from its pedestal in front of the Art Institute of Chicago.",
+                "width": 8430,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAADY5NTQ/PkI4IT1COjtEQkNHQk5YWFteWWtkTmtoX291WnJ1WX1xZ355cYZ3Zn+Cf42KaoWEeJOKfpeWcoCEgI2OiJaQgp+XgpWRiJWTjKKbjqqhkK+olbGml7q0q7e2sMG5rcbAs8fBuMrGv8/HvsnJud3d3evr7gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJPnIwKRQpPTyPDgQDaC0gUQIAwsDISjcUgUMB2JpkLJRBSLIAA7",
+                "height": 5620
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/656",
+            "id": 656,
+            "title": "Lion (One of a Pair, South Pedestal)",
+            "timestamp": "2023-12-02T23:33:16-06:00"
+        },
+        {
+            "_score": 118.84838,
+            "thumbnail": {
+                "alt_text": "A work made of oil on board.",
+                "width": 6486,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACUiHCckHSghGi4nGislHi0mHjMvJDUuJDUwITcwIz07LUY+LUhALktGNExGNFFINGhYOWdcQXVlRYRmSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4EAwC3JMjxJJhgM1QSEkQAgAOw==",
+                "height": 7661
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/117241",
+            "id": 117241,
+            "title": "Girl with Cat",
+            "timestamp": "2023-03-01T03:07:56-06:00"
+        },
+        {
+            "_score": 115.63281,
+            "thumbnail": {
+                "alt_text": "A work made of oil on cardboard.",
+                "width": 4603,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFpcVVthVGBgSndvSW5hUWtlWHJvVWxpYHJ1bYd+an2Feo6Da4iGcZmTfqWdi6SgkK+rnLS7q7u4qb68rAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBIIQ8QQBlIsDXAkzjNJUAgAOw==",
+                "height": 5060
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/45259",
+            "id": 45259,
+            "title": "Nude with Cats",
+            "timestamp": "2023-12-02T23:24:48-06:00"
+        },
+        {
+            "_score": 103.26867,
+            "thumbnail": {
+                "alt_text": "A color woodblock print of two orangeand white cats with pink noses represented in cubist-like design against a blue, gray and black background",
+                "width": 1645,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACAmNC0wPW1VOTw/SVlWUXBlVnV2doVnQ494WYx8aI+BboWAedipa4iOlYyQlI+UmaabkLKpmta2jKi52wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAJNw5IUQEMggWNIwhMxRwgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/16227",
+            "id": 16227,
+            "title": "Cat Making Up",
+            "timestamp": "2023-03-01T03:07:08-06:00"
+        },
+        {
+            "_score": 97.5015,
+            "thumbnail": {
+                "alt_text": "A work made of watercolor and gouache, over touches of graphite, on cream wove paper.",
+                "width": 1754,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJB4cbqIcIp/irSQgrWXhbScjbGZlqqdqqicr66iusCklcGpm7m0zb+409LH0NPF09XJ1tbL1tnM2d7P3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBDtNMD5IIxxAARkEoSwgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/22482",
+            "id": 22482,
+            "title": "Homesickness",
+            "timestamp": "2023-12-02T23:18:00-06:00"
+        },
+        {
+            "_score": 93.27647,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in 6 colors (red, ochre, yellow, black, gray-brown, brown) from two stones, with scraping on stone, on ivory wove paper.",
+                "width": 2928,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEI9JFFFLV5QPWVaOn1VR31rUHhpV3BnXHprWYBhRpJgUIdyU6VqW6pxXKR5WId9b458bcBvZcdwaM14btR3b9V8c9F/eI6Dc6uHeqKSfcORhtiVjdmWjt6ZkAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4GUgxZI9QgAk2jE4CrNBhFVRHdZMkcSFADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/51719",
+            "id": 51719,
+            "title": "Winter: Cat on a Cushion",
+            "timestamp": "2023-03-01T03:06:07-06:00"
+        },
+        {
+            "_score": 91.97438,
+            "thumbnail": {
+                "alt_text": "A work made of hand-colored woodblock print; tan-e, vertical o-oban.",
+                "width": 2039,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAK+RdLmlgryjhrCgiL2oj8KymsWzmMq2msvArMvBrNDBrNDGsdjLtNnOtwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMLFmRCvhDECWQhEAOw==",
+                "height": 3800
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/158921",
+            "id": 158921,
+            "title": "Courtesan Playing with a Cat",
+            "timestamp": "2023-03-01T03:05:33-06:00"
+        },
+        {
+            "_score": 91.65915,
+            "thumbnail": {
+                "alt_text": "A work made of gold, enamel, and baroque pearl.",
+                "width": 2911,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAKGJbLOYdbKafMGhdJ6fn6eWgLSgiLCnnKKhoaWjpKakpaelpqenp66wtbKwsbSztLW0tLi3uLe5v7y9vsasjsO6ssK9vMPAvsfBvMXBwMTCwsLCxcjIyO3m3wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILMoCUJAjxMczXR1QyFtBiUAEYdVVqaFADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/119335",
+            "id": 119335,
+            "title": "Baroque Pearl Mounted as a Cat Holding a Mouse",
+            "timestamp": "2023-07-05T13:11:15-05:00"
+        },
+        {
+            "_score": 91.19329,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on ivory wove paper, laid down on ivory cloth.",
+                "width": 1767,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC0nHFpSRH92Z4V+boyDdJOId6KWh6GYiaacjKidja6lkq6klLKolrmunb6zosO4psK6qMe6qNHEstPItwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIQs0zMojQBARxEwhOQkRggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/68825",
+            "id": 68825,
+            "title": "The Cats' Rendezvous",
+            "timestamp": "2023-12-02T23:26:52-06:00"
+        },
+        {
+            "_score": 88.94991,
+            "thumbnail": {
+                "alt_text": "A work made of engraving on ivory paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADs2K0I9MkM/NFJNPFhSQV1XRGFaSGJcTGVfT2dhTWhhTW5nU25nVm9oV29pWXFqVXFrWXZuWHdwW3hwXoN6X4Z9YoR7ZIR7ZYZ9ZZCHcK6kibWrj8e8n8m/oQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILRUlIIwwVAYxwREhHU1wpNgksZ1W+aEADs=",
+                "height": 2305
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/9372",
+            "id": 9372,
+            "title": "The Large Cat",
+            "timestamp": "2023-03-01T03:18:38-06:00"
+        },
+        {
+            "_score": 88.72686,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph (brush, crayon and spatter with scraper) in pink/mauve, violet black and brown on cream wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAGFKRWlPSGdXUWxaU6VuXIlvY5RvYIZwZpt2Z5V3ap9/b6h4ZpqEd6SAb7CAbLaEb6WFdMuVfL2ZhsCXg8eZgN25oNrCreXBqOnFqufLs+fOtu7Sue3dx+/jzwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGdtGXZ1xyAUlZYECMBMxBMZirQ4VAOFADs=",
+                "height": 2416
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/51724",
+            "id": 51724,
+            "title": "Summer: Cat on a Balustrade",
+            "timestamp": "2023-03-01T03:12:20-06:00"
+        },
+        {
+            "_score": 88.72426,
+            "thumbnail": {
+                "alt_text": "A work made of wood and plaster.",
+                "width": 1500,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGlQQXhiVG9yfZF9b4eAgJaKh4KGkKOXk6SZlJKWoaehoaKiqKmorbK5x+Tn8AAAACH5BAAAAAAALAAAAAADAAUAAAQL0BDBRkKhFbDcUREAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5522",
+            "id": 5522,
+            "title": "Cat Coffin",
+            "timestamp": "2023-12-02T23:23:43-06:00"
+        },
+        {
+            "_score": 86.908585,
+            "thumbnail": null,
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/50087",
+            "id": 50087,
+            "title": "The Cat Boat",
+            "timestamp": "2023-12-02T23:24:31-06:00"
+        },
+        {
+            "_score": 83.89609,
+            "thumbnail": {
+                "alt_text": "A work made of pastel, over charcoal, with stumping, on tan wove paper, edge-mounted to board.",
+                "width": 4609,
+                "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAADw/PExKOFBPPlFRPltZP1BOTFxbR11XUFtXVGBeQGBaU2BbVWZiQ2RgTGlkU2pkYG1pYHRxYXt4ZnNzaX59cYGBZouJhZibm5idmQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYDIIhkMAxYIwQWQpzYRdByRV1BMCADs=",
+                "height": 4259
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/185817",
+            "id": 185817,
+            "title": "Cats Playing",
+            "timestamp": "2023-03-01T03:05:34-06:00"
+        },
+        {
+            "_score": 82.64509,
+            "thumbnail": {
+                "alt_text": "A work made of bronze.",
+                "width": 2733,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAA4ODhUVFRYWFhwcHB0dHTQ0NDY2Njc3Nzs7Oz8/P0xMTE5OTmhoaHNzc3h4eIODg4yMjJmZmZqamqOjo6mpqbm5uby8vMbGxsjIyMnJycvLy87Ozs/PzwAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAGAAUAAAUY4BVJG4dNiKA4lmMMAcBUC1E0VPYkB6SFADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/70989",
+            "id": 70989,
+            "title": "Lion",
+            "timestamp": "2023-03-01T03:05:14-06:00"
+        },
+        {
+            "_score": 82.55814,
+            "thumbnail": {
+                "alt_text": "A work made of gelatin silver print.",
+                "width": 1845,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADgxKz02MD43MUI7M0M8NEM8NUU+NktEO0tEPFRNRVlSSF9YTWVeVGhhVmpjWHlxZHlyZoJ7boiBc5CJegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4ONEwQQtRiMdA8EkiAAUSggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/55468",
+            "id": 55468,
+            "title": "Negative Cat",
+            "timestamp": "2023-12-01T11:01:18-06:00"
+        },
+        {
+            "_score": 80.3377,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print; chuban.",
+                "width": 2231,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGRZQXBkSX9wRox9Upp9VJKDWqGNUqGCWJiHZJ+Pa6SOaLKNYKSXbaaefKygeraqh7uuhr+yj7+1lce8nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoMM8EnFE06I0UJEgxhAAQggAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/21177",
+            "id": 21177,
+            "title": "Cat Pawing at Goldfish",
+            "timestamp": "2023-03-01T03:05:19-06:00"
+        },
+        {
+            "_score": 79.43352,
+            "thumbnail": {
+                "alt_text": "A work made of watercolor on cream laid paper, laid down on cream japanese paper.",
+                "width": 1321,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAJ+PbZ2NboiKfZeKdamOcaWTcqOTda6ad6OVfK+afr6hfbCggtSwhNGwitm3jAAAACH5BAAAAAAALAAAAAADAAUAAAQLcBFURjAiHaAacxEAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/62735",
+            "id": 62735,
+            "title": "Still Life with Cat",
+            "timestamp": "2023-12-02T23:28:38-06:00"
+        },
+        {
+            "_score": 78.91351,
+            "thumbnail": {
+                "alt_text": "A work made of aquatint on ivory wove paper.",
+                "width": 2397,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADY0Kz06L0A8MVBLPFBMPm9pWJSQhZiUiKGcjqOfkbKtm765pru3q7+7r7+8r8G9r9bQwtnVxdvVxtrVxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoNQwkCEAB0IUSxIMyuQ8UQgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/21206",
+            "id": 21206,
+            "title": "The Cat's Paw",
+            "timestamp": "2023-03-01T04:50:24-06:00"
+        },
+        {
+            "_score": 78.86895,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print; chuban.",
+                "width": 1703,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKGOcLeccrKbesGfdsCmf8elfrumh7upiMCoiMeui8Wvjcavjsq0k825mdK+n8q9oNPAodfDodvHp9jIqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4IJIU8Q40HMYDRAQQjIUSggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/20803",
+            "id": 20803,
+            "title": "Young Women Playing Cat's Cradle",
+            "timestamp": "2023-03-01T03:02:43-06:00"
+        },
+        {
+            "_score": 78.841736,
+            "thumbnail": {
+                "alt_text": "A work made of cotton, plain weave; embroidered with wool (camelid) in stem stitches.",
+                "width": 5128,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE8yLFc5MlY7Nlw/OWNFPmNMR35nY4Nua4Rxbop4dY9+e5GBfJGBfZSCf5yOjJ+QirOqp7Spp9vX19/b2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBFBR9AkAPEsg8AoBeJMUggAOw==",
+                "height": 6777
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/2990",
+            "id": 2990,
+            "title": "Border Fragments",
+            "timestamp": "2023-12-02T23:26:33-06:00"
+        },
+        {
+            "_score": 78.77766,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print.",
+                "width": 1752,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAEdGP05KOV1WPWlcMFRRRmpiSWtjS3luRnBvYnd3bYV2R4d7Vol7UouHdKGbhAAAACH5BAAAAAAALAAAAAADAAUAAAQL0C2GREnjtKAIMBEAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/16145",
+            "id": 16145,
+            "title": "Black Cat",
+            "timestamp": "2023-03-01T03:16:19-06:00"
+        },
+        {
+            "_score": 78.133736,
+            "thumbnail": {
+                "alt_text": "A work made of transfer drawing in brownish-black ink (recto); graphite and blue crayon pencil with brush and solvent washes in ocher on cream wove paper.",
+                "width": 6789,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAGBQO2BSPmNUPmRUPWZXQmlZQWpbRG5dRG9fSHdmTXtqUXxrUpJ+YZKCapWEbKSTfaydiK+fibWhhLGhi7eoksm3nMq7pcq8p8y8ptHBqNbFq9HCrdXFrNXFrdnKtdnMudrMut7PuNrOvdrOvt3QvuHQud3SxOPYyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJEFQ5lEIKNPRbI4CBAX0kNhGAACHFCjkGAQHCWTR5PpbEKnIAA7",
+                "height": 4101
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/116236",
+            "id": 116236,
+            "title": "Woman with a Cat",
+            "timestamp": "2023-12-02T23:28:37-06:00"
+        },
+        {
+            "_score": 78.046906,
+            "thumbnail": {
+                "alt_text": "Cool-toned paper collage of a number of black figures in a room. In the left foreground, a small, female figure spins wool; behind her a larger female figure works an upright loom. A male figure strides across the frame. Three male figures stand to the side, and a figure carrying a knife enters the room through a doorway in the back. A large window in the background frames a mountainous island and a ship with white sails.",
+                "width": 6498,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFRXV15WVF1dXlpiX1pqWGpqVWZgX1tfZFlnb1lme2BgY2dnZmlnZmVoZGBlaWJuaWNqbWlsaWxrbWVxZWl4ZmJyeFdogmV3gGZ5g16DlnWEjmOBkG6FkXGHkAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoJJtHWMEGKcdQHJVjhBZyLBID9QU1ESEADs=",
+                "height": 5104
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/93903",
+            "id": 93903,
+            "title": "The Return of Odysseus (Homage to Pinturicchio and Benin)",
+            "timestamp": "2023-12-02T23:16:32-06:00"
+        },
+        {
+            "_score": 77.342415,
+            "thumbnail": {
+                "alt_text": "A work made of graphite, with traces of erasing, on ivory laid paper (discolored to cream), laid down on cream wove paper, laid down on off-white wove paper.",
+                "width": 1773,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALusmMS0n8m5pMq6pMu6pcy7puPZzuTZz+fd0+vg1uzh1+ng2erg2Orh2evi2u7j2O3l4O7m4e/o4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYLQ0kkIIyBMARlIMB8Q4UAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/31749",
+            "id": 31749,
+            "title": "Girl with a Cat",
+            "timestamp": "2023-12-02T23:26:43-06:00"
+        },
+        {
+            "_score": 77.14907,
+            "thumbnail": {
+                "alt_text": "Room with yellow wallpaper with graphic images, white dress under spotlight.",
+                "width": 2997,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHlTK3hULX5cOoNZLIxnP5p0RZ5+VqF7TqZ/VKaEW66JYamIZamXaK2Zb6WWcKaaf6+efrCee7yic7qjebukfqOagb+ngMWog8Wsi8GwicWxisW1lsi1kMq4k8y8m82/nc69nse9qtLGtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQEflAYk0GJRJ5tPZhCwSjYcDEhkKmMshsRAQFIgBIBAEADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/192689",
+            "id": 192689,
+            "title": "Untitled",
+            "timestamp": "2023-12-02T23:16:42-06:00"
+        },
+        {
+            "_score": 77.05998,
+            "thumbnail": {
+                "alt_text": "A work made of etching on ivory wove paper.",
+                "width": 580,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFxYT313apGMgpuWi5+Zi6ehkrq0qLy2qcG6r8O9scW+s8bAtNHLv9LKwNPLwNPMwNXNwt7ZzOHbzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoPNADUIUyhEAxjIICRNJTwgAOw==",
+                "height": 768
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/181219",
+            "id": 181219,
+            "title": "The Cat",
+            "timestamp": "2023-03-01T03:03:35-06:00"
+        },
+        {
+            "_score": 77.03708,
+            "thumbnail": {
+                "alt_text": "A work made of etching on white wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAALaxoM/Lu9LPvNXTwtnWxdvZx93by9/byt/dzern3evp2+zq2+vo3uzp3+7r4e7r4u3s4u/v5fLv5fHx5fDw5vHx5/T06vX06vT16/X16wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYEVF0NNQirIciUUICMBYRjEE0pRh1uWEADs=",
+                "height": 2335
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5655",
+            "id": 5655,
+            "title": "Black Puss-Cats",
+            "timestamp": "2023-03-01T03:11:58-06:00"
+        },
+        {
+            "_score": 76.335655,
+            "thumbnail": {
+                "alt_text": "A work made of oil and paper on canvas.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhCgAFAPUAAJ50Ro1yUZB5Wq6GUqyKWpWIZK6SZbahdbOifcONbd+5YcSrdd7FdObDZ66egKuhh6ujjKu0oMWugMOyg8S1jtW+hdC4j8y5lN7Ll/DUjO7Tk87BqcjCr87BrdLEoNHKpNXMptrKotvDr8rTueXYruXcuPHqvNzfw93hy9zhzert1OTr2+ns2/Lz1/Dw3ujv4+vw4e3y5QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAKAAUAAAYuQEBA4PAcDAjCgJLojD6TxSmF4og2kkIE8nCxQqWLhaFogGKwCoakMmkyrdcqCAA7",
+                "height": 1567
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/22182",
+            "id": 22182,
+            "title": "Lions on the Dreyfus Fund III",
+            "timestamp": "2023-03-01T04:35:19-06:00"
+        },
+        {
+            "_score": 75.98983,
+            "thumbnail": {
+                "alt_text": "A bronze lion, on the cusp of a roar, seems to step forward on its pedastal in front of the Art Institute of Chicago.",
+                "width": 7563,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAACYwMDw+OE5WTlVUT2NSRWpcVHJuXWtpYW9uaHBxZ3Z5ZHNybXd6cXp/fYJ4boB9d46Ga4uHcpGGc5qQe5GNiZmfgJKSkJ6YkKGXjqmjmqynm7Gtpbuzqb+6tLy5t77Es8jBt8rCus/Guc/KxMzKyMzLyfDq3/Dv8QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwBDnQumQPCfIRKRplEYfQoEhAGxMFcxhEFiAJIpI4oGwZByGIAA7",
+                "height": 5042
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/230193",
+            "id": 230193,
+            "title": "Lion (One of a Pair, North Pedestal)",
+            "timestamp": "2023-12-02T23:33:16-06:00"
+        },
+        {
+            "_score": 75.707565,
+            "thumbnail": {
+                "alt_text": "A work made of etching in black on cream wove paper.",
+                "width": 7360,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGFSSI2CdpWFeKSRfKmWga6ciMe3pMe8rtnIsNzNtN7Pud/QueDPteLUvePVvuXaxufbxube0e3iz+7iz+/j0ezj0+/k0/Hm0/Lm0vDp2fPq2fHr3Pbu3/bx5Pjy5fnz5vv15//67AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAXE0XA8EhQPZ5P5XCYhTaACkmAiAsChY1EYCIUBghEEADs=",
+                "height": 5378
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/240949",
+            "id": 240949,
+            "title": "Cat's Cradle",
+            "timestamp": "2023-12-02T23:25:00-06:00"
+        },
+        {
+            "_score": 75.55249,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint in black on cream laid paper.",
+                "width": 2225,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAANzNtN3Pt+PUvejZw/Hl0fLn0/fs3Pft3ffs3vft3vft3/jt3Pfu4fjv4fjv4vrx4yH5BAAAAAAALAAAAAAEAAUAAAQPUKHEzBBmBbAMKUfzPE4EADs=",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/4825",
+            "id": 4825,
+            "title": "Young Girl with a Cat",
+            "timestamp": "2023-03-01T04:54:22-06:00"
+        },
+        {
+            "_score": 75.09796,
+            "thumbnail": {
+                "alt_text": "A work made of ink and pencil on paper.",
+                "width": 2260,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKCch6afhKynj6+rk7WvlLqzlbmyl7eymrm0mbm0mrq1m7y2nL+5ncW/pMrFqM3Gqs7Iqs7Jq9HKsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoHFIBgIMD5QITqQ0RLEwQQgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/84181",
+            "id": 84181,
+            "title": "Cat Making Up",
+            "timestamp": "2023-03-01T03:22:47-06:00"
+        },
+        {
+            "_score": 74.14627,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint from a zinc plate on ivory laid paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAACcmISknIiopJC0qJDAuKTMwJzMwKDQxKkE8MUdCNkhCOEpFPFNNQVZRRX92ZYR5Y5aJcpKIdZaKdJuPepyPeJ6ReZuRgZyUhp2Uhp+WhqCXhqaZgKWag6mcg6ibhKqdhKGYiKSaiKObjbGjibKljbutk7yulcGylgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwMmn1JGMNhQPKdIIOE4VE+cgABAeEIYiUUAYBgvRBZPRhCygIAA7",
+                "height": 1840
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/49629",
+            "id": 49629,
+            "title": "Cat Arching Its Back",
+            "timestamp": "2023-03-01T04:48:56-06:00"
+        },
+        {
+            "_score": 73.92327,
+            "thumbnail": {
+                "alt_text": "A work made of etching and aquatint with plate tone in warm black on cream laid paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAK6bg8m3n8+9o9/PteLRtu3dw+vcxOvexuvhzfXnzvHn1PLn1PLn1fPp1vTq1/Pr3PPr3fLs3fbu3fTt3vfv3vTu4PTv4Pbu4ffw4Pbw4vjw4vjy5Pjy5fjy5vnz5vv15/725fr06Pr16QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwI4GRJFgOCFGoCBAfEQLwICg8GwciYOhkblMIpbKAxIEADs=",
+                "height": 2134
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/62328",
+            "id": 62328,
+            "title": "The Cats",
+            "timestamp": "2023-12-02T23:26:50-06:00"
+        },
+        {
+            "_score": 73.62735,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph (crayon, brush and spatter with scraper) in green, yellow-orange, brown and black on cream wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAFc3HEI2J04/LVNDIFJEIl1KImFEIWdLJWNPKmlPL29SJ2tVJmhQKW9XLn9jLGlXRW9eR3VlSodtL4hnQYtsRa2NNbeXPZ+GTaiMSLSVQaqUZsGbXNO0XejDaAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIFdZGaZ1y0AU18YISRBNgOIgEGUcUvOEADs=",
+                "height": 2403
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/12518",
+            "id": 12518,
+            "title": "Summer: Cat on a Balustrade",
+            "timestamp": "2023-03-01T03:05:21-06:00"
+        },
+        {
+            "_score": 73.585785,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print.",
+                "width": 2172,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE9FL1dUPl9aRFBZVWFZSGZcSF5jXX9vR3JmS3VvSHh0R2piUGxvX3dvVn54aXJ+d4mHb6WWbrisiM+7hgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAAZRdI8gxJIDLBMB+FESAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/16148",
+            "id": 16148,
+            "title": "Cat Making Up (A)",
+            "timestamp": "2023-03-01T03:04:55-06:00"
+        },
+        {
+            "_score": 72.689255,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on light-gray china paper laid down on ivory wove paper (chine collé).",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACkjG01HPFJMQFxVR1xWSF5XSmFaTWBZUGZgU2liVXBnWn93aYF5aomCdIuDeJqSgJyVgqaej6igj8a9qc3EsNXNudXMu9XOutfOutbOv9/XxeHYweHZxebcy+nf0Ozhyuvj1O7m1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwE+k8YBIOKEDwDBgaEAHRUBAoHgciwSiMOlkLJjKZRMEADs=",
+                "height": 2235
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/41098",
+            "id": 41098,
+            "title": "Lion of the Atlas Mountains",
+            "timestamp": "2023-03-01T04:51:13-06:00"
+        },
+        {
+            "_score": 72.08355,
+            "thumbnail": {
+                "alt_text": "A work made of ceramic and pigment.",
+                "width": 1790,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACUjISUlIycmIzIuKkhHRVBPTFpaWWpjWmZnZYVnT5KAbqGCaqOJcKCMfa+WfpaTkLailKupp62opcrGwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDAEQKEcBOIwRrQkzwQ1UggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/9137",
+            "id": 9137,
+            "title": "Handle Spout Vessel in the Form of a Cat Man",
+            "timestamp": "2023-06-21T11:45:24-05:00"
+        },
+        {
+            "_score": 71.85172,
+            "thumbnail": {
+                "alt_text": "A work made of silver dye-bleach print, from the portfolio \"a-z\" (2007).",
+                "width": 2344,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHA8LHJAMYwqNZ4vPJI+Pp4sQJcoSJUrTKMwRKYxWagwXaslZacmbrEqdLcneasxeZ1WULReYboohLszjQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4PQ0igQdixMFBkMAQlIMSAgAOw==",
+                "height": 2960
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/190563",
+            "id": 190563,
+            "title": "C",
+            "timestamp": "2023-03-01T03:16:11-06:00"
+        },
+        {
+            "_score": 71.452446,
+            "thumbnail": {
+                "alt_text": "A work made of tempera and silver leaf on canvas.",
+                "width": 6282,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFRJQVRKQFtPRV1SRl1SR15TSFdaWGJXTWxdTGpeUXZnVnxqUXhpV3xtXV1pbF5sbGp4coh/cHSBf3iAe46AZYyMfJ6SdJuTe6SVcqqXcK2ZcKqad66bda+ddKmce7ile7ilf3+HhHWKjp6gm6+hgaOnpK2vpNrDkgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwMEhUCAIAAlKBMFoKBYcz2NiKo1Ip0sFInIYJCFMR/MBZTaWIAA7",
+                "height": 3870
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/78503",
+            "id": 78503,
+            "title": "Portrait of Emily Crane Chadbourne",
+            "timestamp": "2023-11-08T12:50:53-06:00"
+        },
+        {
+            "_score": 71.30233,
+            "thumbnail": {
+                "alt_text": "A work made of etching on cream laid paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAK2nkMXBq8vItNXSv9nVw9vWxdzXxdzYxdzZxt7ax97byebi0OPg1OPh1OTg1OXh1ubj1+bj2Ofk2ejm2+rp3uvp4Ozr4e3r4e3t4+7t4+7u4u7t5O/w5fHy5wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4EVN0uNYSrIYTAYEyNFgwkAUkNZxWxWFADs=",
+                "height": 2307
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5646",
+            "id": 5646,
+            "title": "White Puss-Cats",
+            "timestamp": "2023-03-01T04:44:27-06:00"
+        },
+        {
+            "_score": 71.10423,
+            "thumbnail": {
+                "alt_text": "A work made of pen and black ink on white wove paper.",
+                "width": 3556,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAODg2ePk3eXl3eTk3+Xl3+bm4Ono4erq4urr4+vr4+3s5O7t5u7u5+7t6O7u6O/u6O/v6O/u6fHw6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoHQYCwQEDEMgQjQUydM4SggAOw==",
+                "height": 4563
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5388",
+            "id": 5388,
+            "title": "Mary Reynolds with Her Cats",
+            "timestamp": "2023-06-07T10:51:05-05:00"
+        },
+        {
+            "_score": 71.0173,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black, olive, orange and blue on tan wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADgwJjUwKW1OKnpiRYxoO6pxLop2WKF9TreKUqKIZaWMZqKLaL2dbb2ieMKYYcKZZcWgbc+pd8qpec6qe8+seM2vfdGocNGsd9GtfdSufNeyfdixeuq7f86vhNGxgte3hdS0ht27h9C0iQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMwlpDBwQBHK5hEYZCQVCIIASEwsGkZBsOh4Po2DQxQEADs=",
+                "height": 2215
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/16858",
+            "id": 16858,
+            "title": "À la Bodiniére",
+            "timestamp": "2023-03-01T03:05:34-06:00"
+        },
+        {
+            "_score": 70.32041,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on light gray china paper laid down on ivory wove paper (chine collé).",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEtGO09JO1tURGNbTWZeTWZfU2pjUnVtW3x1ZH11ZoqBbJKHcpGIdJyTfZyRf720ocO7qMrCrs7Hss/HstrUxNzVxd3Wx9jTyd3XyN/ZyeHay+Lcz+bf0ujg0Ojh0Onj0uvk1evk1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQBDkEZlIPiHHoqFgbDgJgiAAuFgKA8MBgeloMhVKxhMEADs=",
+                "height": 2268
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/41095",
+            "id": 41095,
+            "title": "Bengal Tiger",
+            "timestamp": "2023-03-01T03:23:03-06:00"
+        },
+        {
+            "_score": 69.65962,
+            "thumbnail": {
+                "alt_text": "A work made of aquatint and sugar lift etching with scraping and drypoint on copper in black on off-white laid paper.",
+                "width": 2296,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJeNf5iNfpmNf5iOf6CVhrGmmMm/sM3EttPIutXLvODWx+PYyebbzOfdz+ne0Ojf0eng0uvi0+vi1O3j1QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MQgjVMIizIEyQEQhvRAUQgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/128328",
+            "id": 128328,
+            "title": "The Cat, from Histoire naturelle",
+            "timestamp": "2023-12-02T23:24:43-06:00"
+        },
+        {
+            "_score": 69.15229,
+            "thumbnail": {
+                "alt_text": "A work made of brush and pen and black inks, and gouache on cream wove paper.",
+                "width": 2934,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADEpIzMrJTgwKzkxLToyLT01Ljw0Lzw1MD42MUA4M0I6NEM7NUQ7NklBOEpCO05GPk9GP05GQFlQSFlRSl1WUVxXU2VgXYqEfaioqKyrrLW3v7e4v7m6v8HAwQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILZxWtZFFWVNlwIUgdAsxGAckIMwySOFADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/56037",
+            "id": 56037,
+            "title": "Landscape with Cat",
+            "timestamp": "2023-03-01T03:02:57-06:00"
+        },
+        {
+            "_score": 68.76031,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph ivory wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAKifgqifg7CmibetjLyyk76zk760lr20mMa7mcW8n8m+nsnApNLGptPIq9XJq9bJq9bKq9PJrNLJrdbKrtfMrtnOsdnPs9vPtN3QsdjQtNvQtNvRtd/StObawOfbwefcwenewuvgxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwM5lonEwMJ7GIkMoUEKGxGGAgHwEAQBA8QBtJJZIhRMEADs=",
+                "height": 2301
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/40811",
+            "id": 40811,
+            "title": "Dog, Cat, Picture",
+            "timestamp": "2023-03-01T04:24:13-06:00"
+        },
+        {
+            "_score": 68.66911,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint in black on cream laid paper.",
+                "width": 2370,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAANzQvdzQvubZyejczezh0e/k1/Dk1fDl1vDm1/Hl2PHn2PHn2fLn2PDm2vHn2/Po2SH5BAAAAAAALAAAAAAEAAUAAAQPsLlU1hDnBcAQIYaiIEoEADs=",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/104333",
+            "id": 104333,
+            "title": "Young Girl with a Cat",
+            "timestamp": "2023-03-01T03:21:32-06:00"
+        },
+        {
+            "_score": 67.9872,
+            "thumbnail": {
+                "alt_text": "A work made of charcoal, with touches of brush and black wash on cream wove paper, discolored to tan.",
+                "width": 2806,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAK6Wda+WdbGYd76kf7qjhMmuiM2wic6xic6yjMuzkdG3kde6ktW9m9q/mNzAmNrBn+DCmOPEmeXGmuPHnuLHn+PIoOXJoeXKpOXLpufNp+vSrejRrgAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoKYok4NdATAcFlMsiJBkEhQZxEZVVfOEADs=",
+                "height": 2290
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/13772",
+            "id": 13772,
+            "title": "Sleeping Cat",
+            "timestamp": "2023-03-01T04:44:34-06:00"
+        },
+        {
+            "_score": 67.981476,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print.",
+                "width": 2206,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG9ZOzNJSDtPTHBfQFBjXmFpWpJzTYN8X5N7U4Z/YYKCZY+HY5KOZ5WMZYWMfaCWcqSdeYqPgJ+chJ2chwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4HMkUAMMjGIgCxEIheREUwgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/13914",
+            "id": 13914,
+            "title": "Self-portrait with Cat",
+            "timestamp": "2023-03-01T03:16:30-06:00"
+        },
+        {
+            "_score": 67.4446,
+            "thumbnail": {
+                "alt_text": "A work made of salted paper print.",
+                "width": 6469,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFJDPVhFP2NMQmFORGBPRWRRR2NTS2ZTSWVUS2dWTGxXS3tiUH5mVHZlWXlmWIdxX493X5B6ZJaEc6WRewAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoFEwEHAIC5EEitMgQzRJTwgAOw==",
+                "height": 7974
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/34883",
+            "id": 34883,
+            "title": "Mrs. Craik Holding Cat",
+            "timestamp": "2023-07-27T14:56:04-05:00"
+        },
+        {
+            "_score": 67.04947,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print.",
+                "width": 874,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACwEAygLBDMKBTUICTMPDTgMCSMWDDoTES4nFkYUEEgeGEkiGkQ1KkpBK29gRwAAACH5BAAAAAAALAAAAAADAAUAAAQL8LChXFlNJBSIAREAOw==",
+                "height": 1603
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/12360",
+            "id": 12360,
+            "title": "Cat, from the series \"Steady Gaze\" (\"Gyoshi\")",
+            "timestamp": "2023-03-01T03:23:19-06:00"
+        },
+        {
+            "_score": 65.548515,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on ivory wove paper.",
+                "width": 2531,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKWhmaqmnLKuo766r8bCusfEutXRx9bTyN3az9/c1ODd1OHe1eTi2Ofj2+jl2+nm3uzp4vLv6fTy6/Xy7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4KNMUWFI0HAwSyAgDkAkTQgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/39698",
+            "id": 39698,
+            "title": "Cat and Monkey",
+            "timestamp": "2023-03-01T04:54:08-06:00"
+        },
+        {
+            "_score": 65.523186,
+            "thumbnail": {
+                "alt_text": "A work made of oil on canvas.",
+                "width": 1401,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAM6XVNSYbtCzdtC3fde+fdC6gtzFl93KmuDNmtbKqeTYseXaturiv+XcwerhwQAAACH5BAAAAAAALAAAAAADAAUAAAQLcKXmDlMmlAGQIBEAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/54751",
+            "id": 54751,
+            "title": "Woman against a White Background",
+            "timestamp": "2023-09-28T11:10:56-05:00"
+        },
+        {
+            "_score": 65.30637,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on cream wove paper.",
+                "width": 1512,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAElHPHt3Z396aoF9bIJ9bISAb4WBb4qFco+LeJCLeZGMeaOdiqagjaykkbSumQAAACH5BAAAAAAALAAAAAADAAUAAAQLUIk1ACnInJAcaxEAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/201416",
+            "id": 201416,
+            "title": "Cat",
+            "timestamp": "2023-03-01T04:50:44-06:00"
+        },
+        {
+            "_score": 65.04954,
+            "thumbnail": {
+                "alt_text": "A work made of color woodcut on cream japanese paper.",
+                "width": 2132,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJ6OepyZgKyqjcGzm8/GsNrTt+HawOzjx+nizevlz+vj0enk0e3m0e7m0ezk0+zl0/Lp1PLq1fPq1vXt2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoEMYjwIECzMISVQcE4Q0UggAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/79175",
+            "id": 79175,
+            "title": "Honorable Mr. Cat",
+            "timestamp": "2023-03-01T03:15:28-06:00"
+        },
+        {
+            "_score": 64.23778,
+            "thumbnail": {
+                "alt_text": "A work made of etching and aquatint on cream wove paper.",
+                "width": 2159,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIWFdImHd4mGeIuJeY2KfJCOfpCPfpSSgpqZipuZi66sm62tnbGtnbCsnq+voLe3p7i1pb67q8LCsMTEswAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBAUxAAYB/I4SzJJSgNFTAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/129118",
+            "id": 129118,
+            "title": "\". . . So...then she sez. . . .\"",
+            "timestamp": "2023-12-02T23:18:49-06:00"
+        },
+        {
+            "_score": 63.706566,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory wove paper.",
+                "width": 2491,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALexmcO8pM3Hr8/IsdbPt9rUvNvVwtzWwd3Wwd/YxuDZxODZxeXdxuTdyeXdyejfyejizOvjzuzlz+3m0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoMM8zUIMCRIAhlIIRyRNUAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/40802",
+            "id": 40802,
+            "title": "Head of a Cat",
+            "timestamp": "2023-03-01T04:17:07-06:00"
+        },
+        {
+            "_score": 62.470078,
+            "thumbnail": {
+                "alt_text": "A work made of ceramic and pigment.",
+                "width": 1687,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAA8PDxUVFhcYGSEeHCIhHykmIywoJTArKEA4MGJJPGxiV3plUnxwW35+fod4ZYiAfZ+Xkqejn+fl5enp6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIHAMQeEgAsEsRqMkzxRBUggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/90864",
+            "id": 90864,
+            "title": "Vessel in the Form of a Pampas Cat",
+            "timestamp": "2023-12-02T23:17:07-06:00"
+        },
+        {
+            "_score": 62.03781,
+            "thumbnail": {
+                "alt_text": "A work made of gelatin silver print.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAC0qLC8tLzQyMjg2NTg2Njk3Nzw6OT06OkA9PUVDQkZEQ0dFRElGRE5MS1FPTVJQTlZTUFdUUVtYVGhmYmxpZG1rZm9taXFuanNxbHx8d358doiHgZKRi5aUjQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYCQQiEZdD5BsVccNS4ZNThE0DHRYiiGFADs=",
+                "height": 2417
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5733",
+            "id": 5733,
+            "title": "Couple and cat",
+            "timestamp": "2023-03-01T03:21:31-06:00"
+        },
+        {
+            "_score": 61.960667,
+            "thumbnail": null,
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/12317",
+            "id": 12317,
+            "title": "Scholar's Retreat",
+            "timestamp": "2023-03-01T04:36:29-06:00"
+        },
+        {
+            "_score": 61.561073,
+            "thumbnail": {
+                "alt_text": "A work made of etching on ivory laid paper.",
+                "width": 2016,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADk2K2BdU46MgKCekqGfkqmmmaqnmr26q7u4rLy6rMXCtMbDtczIvNbSxt7bzwAAACH5BAAAAAAALAAAAAADAAUAAAQLUK1TghmAIJGaYxEAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/117444",
+            "id": 117444,
+            "title": "The Cat's Lunch",
+            "timestamp": "2023-03-01T04:32:19-06:00"
+        },
+        {
+            "_score": 61.315346,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAMy7k8i4lMy8mMm/ntPDnNPCndXFn9fGn83Eo8zDpcnEp8bHrsjDqMrFqMvHqc7GqM7IqNXGodXFotrLpNvMp9HIqtDKrNfMrdzNqd3PrMvLsczMstLNsd/WuOHUs+TZuSH5BAAAAAAALAAAAAAHAAUAAAUdYKI4DoQMTGNt2sI8l/d1XFUcE5VhUgAQhkhBEAIAOw==",
+                "height": 2265
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/13912",
+            "id": 13912,
+            "title": "White Persian Cat",
+            "timestamp": "2023-03-01T03:04:17-06:00"
+        },
+        {
+            "_score": 61.314247,
+            "thumbnail": {
+                "alt_text": "A work made of ceramic and pigment.",
+                "width": 1351,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABoZGScjIi8tLTgwKz88OE9MSmVdV3ZlVHFmXYZlSIV0ZpZ8Zp2KepiPirSqpQAAACH5BAAAAAAALAAAAAADAAUAAAQLMAxAjjCrsIScahEAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/8998",
+            "id": 8998,
+            "title": "Stirrup Spout Vessel with Fineline Image of a Cat",
+            "timestamp": "2023-06-21T11:45:43-05:00"
+        },
+        {
+            "_score": 61.237976,
+            "thumbnail": {
+                "alt_text": "A work made of woodcut in black, ocher, blue, and green on white wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFVSRGFdT3JyYXd0Znp6Z4GAboeId5GQeJaYi5aci5yfiJycjJ6hj56lkqWnma+0n8XEtM/NxdHPxtTSw9HRzdXWz9bW0drY0Nzd2N3d2d/f2eDh3OLi3ePk3uvq4urq5evr5ezq5uzs5+3s5+3s6e7s6O7u6fHu6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwJNn9BGZQKWLQXEgFAQSCoKxGAACEYtjAnk0EhVSRoPpcDahIAA7",
+                "height": 1927
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/68130",
+            "id": 68130,
+            "title": "Two Cats",
+            "timestamp": "2023-07-18T16:00:54-05:00"
+        },
+        {
+            "_score": 61.193485,
+            "thumbnail": {
+                "alt_text": "A work made of photostat print.",
+                "width": 6077,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADo4NkRDQEpIRE9OSFBOSlVUTVdWTltaU11aVV1cVV5dVmFhV2JhWWNhWWNiWGRjW2VkWWRkW2hnXHBuY3FvZXFwZHNwZ3RxaHZ1anl3bXx7b4SCc4WEeIqHe5eVhJaUhpyaiZyai5+djwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQMBAkShAHITGIcKQGASXh4ZSWSAsHQ5msglkPqIQyBMEADs=",
+                "height": 4705
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/227018",
+            "id": 227018,
+            "title": "The Street",
+            "timestamp": "2023-12-02T23:16:32-06:00"
+        },
+        {
+            "_score": 60.938084,
+            "thumbnail": {
+                "alt_text": "A work made of etching, drypoint, aquatint and soft ground etching on cream, laid mulberry paper.",
+                "width": 2112,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGRgTGZiTndyW4qFbJaReJeReaSgjKejjqmkkKynk7CslrWvm9TPt9TPvNfRutjSudjTwN3XxN3WxeDawwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoJM8kxIMzEEAxlIIiBQ1UAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/7758",
+            "id": 7758,
+            "title": "Minne Playing with a Cat, from Le Bain de Minne",
+            "timestamp": "2023-03-01T03:22:50-06:00"
+        },
+        {
+            "_score": 60.83238,
+            "thumbnail": {
+                "alt_text": "A work made of lead-glazed earthenware (creamware).",
+                "width": 1739,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAE9HSU9ISlFJSVRKSWJSQGNbX2RbYHVpZIl1WKGKbYp/gI+FiZOKjJyQjKyahbCag6KXk6CVlLGorb20uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCAMQGE8x+IkSoQQzAQ1UggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/67386",
+            "id": 67386,
+            "title": "Cat",
+            "timestamp": "2023-07-14T12:00:59-05:00"
+        },
+        {
+            "_score": 60.187702,
+            "thumbnail": {
+                "alt_text": "A work made of color crayon-manner engraving, with hand-coloring, on ivory laid paper.",
+                "width": 1723,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAH9yXG92ZpGDa4aFcYiIdoyJdYqKeJ2SfqGTe6CUe5CTgZqZh6achKech6aehqGeiq2ijbOih7Gkj6yolQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4GIQkzIET8E4CYBEQnNIUAgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/33920",
+            "id": 33920,
+            "title": "The Cat's Repast",
+            "timestamp": "2023-03-01T04:43:40-06:00"
+        },
+        {
+            "_score": 60.003326,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint on ivory wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGZfTWpiUHVrVHNrWXxzXH50XIB2XYV9bI+Fa5eNdpuSfZ+ZiKCWgKWbgqqgh6qgiKigi7mwmb2zmL+2nsC2nMC4ocS7pcW8pcrCrtDLvdDLvtPNvdHMv9POwNXPwNbQwNXQwtfRwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQI/lMkkcNCEGRSIIZD4KRwMx4GweBYIB0NlgKhHIAhQEADs=",
+                "height": 2195
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/80863",
+            "id": 80863,
+            "title": "Little Girl with a Cat",
+            "timestamp": "2023-03-01T03:02:04-06:00"
+        },
+        {
+            "_score": 59.672096,
+            "thumbnail": {
+                "alt_text": "A work made of pen and black ink on white wove paper.",
+                "width": 3619,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAOTl3ubm3ufn4ufo4ujo4erp5O3r5ezs5u3t5+/t5+7u5+/v6O/v6fDv6vHw6vHx6vLx6gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIKQsyUMginIAQSEMhNMwRggAOw==",
+                "height": 4558
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/5385",
+            "id": 5385,
+            "title": "To Mary Reynolds Who Loved Cats",
+            "timestamp": "2023-03-01T04:46:05-06:00"
+        },
+        {
+            "_score": 59.53315,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint and etching in black on paper.",
+                "width": 2340,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALmsmMO2oczAqtbJstvOt9rPuNzRvuHWwuTZxefcyOneyuvfzevgzO7j0e/j0fDl0vDm0/Hm1PLo1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBDVIMjAEIyREQyuI8TQgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/21237",
+            "id": 21237,
+            "title": "The Sleeping Cat",
+            "timestamp": "2023-03-01T04:29:24-06:00"
+        },
+        {
+            "_score": 59.042545,
+            "thumbnail": {
+                "alt_text": "A work made of gelatin silver print.",
+                "width": 2834,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAC4tKy8uLDAvLTEwLjMyMDc2NTg3NTg4Nzo5OEJBQEVEQ0ZEREdGRkpISExLS01LS05MTFJRUVNRUlVUVFVUVldWV1hXWV9dXmNiY2RjZWhnaW5scHp4e4KAgwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGE0VYEIhyUBVKBty5AxHXdBk4MpT5SEADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/120793",
+            "id": 120793,
+            "title": "Cats on Woodbox",
+            "timestamp": "2023-03-01T04:48:43-06:00"
+        },
+        {
+            "_score": 59.02862,
+            "thumbnail": {
+                "alt_text": "A work made of book with color off-set lithographs on white wove paper.",
+                "width": 4020,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAL66NNKfKdKwMt3NGdzMJa6DdK+PeK2deK+ybrqpcODKU7SphKK9gpS/v+PGgwAAACH5BAAAAAAALAAAAAADAAUAAAQLMAji1GjMoFXSAREAOw==",
+                "height": 6320
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/209711",
+            "id": 209711,
+            "title": "Hairy Who (cat-a-log)",
+            "timestamp": "2023-12-02T23:16:31-06:00"
+        },
+        {
+            "_score": 58.75272,
+            "thumbnail": {
+                "alt_text": "Cream-colored tunic with stylized birds, cats, and geometric border.",
+                "width": 2322,
+                "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGxiWHJoWnNrXntqXH5uXHRsY3RtZHduaHhwY39yYntyZHVwaYBwY4p7Zoh6bI1/bYB6cJSEbZWGb5iHbZqJbpqLcaGRd6WXgLWihQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIKQIyPJQjTQk2GU5RDVFDBAYxRECADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": true,
+            "api_link": "https://api.artic.edu/api/v1/artworks/85533",
+            "id": 85533,
+            "title": "Feathered Tunic",
+            "timestamp": "2023-10-19T11:20:59-05:00"
+        },
+        {
+            "_score": 58.578568,
+            "thumbnail": {
+                "alt_text": "A work made of hand-colored woodblock print; hosoban, tan-e.",
+                "width": 1562,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHllRn1tTpKBXZSEXpyIXZeGYaWWcqqXcKiZd7emfbOkgbiqhr+uhsGugcGxjAAAACH5BAAAAAAALAAAAAADAAUAAAQL0CnWyDIBHTCSKBEAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/8926",
+            "id": 8926,
+            "title": "Beauty Playing with Cat and Kitten",
+            "timestamp": "2023-03-01T04:07:33-06:00"
+        },
+        {
+            "_score": 57.706837,
+            "thumbnail": {
+                "alt_text": "A work made of drypoint on ivory laid paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGFbT2lhU2liU29mVWtlWXpyY52Ug5uViaOYg6ediq6ji66kj8S7qMe+rM/HtdLGsNLJtNTKtNPLuNPKudTLuNbNuNrQvNnQv93Twd3UxN/Xxd/XxuDYxuHZx+HYyOLay+Tbyubdy+XdzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQI/GQZFUMJcHAVAQMCYRw0AROGQskMQC0fhsOKEOSBQEADs=",
+                "height": 2221
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/49712",
+            "id": 49712,
+            "title": "Two Cats on a Cushion",
+            "timestamp": "2023-03-01T04:43:47-06:00"
+        },
+        {
+            "_score": 57.5016,
+            "thumbnail": {
+                "alt_text": "A work made of etching with aquatint in black on cream wove paper.",
+                "width": 2485,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADk6NmBfWW5uZ3d3b4OCeZGRh5OTiaWkmaalmqmnm6qpnq+uorCvo7GwpLW1qbe1qszLv83LwdDPxdTTyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYNI4x8IUhBIAxiMMSCRNUAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/212911",
+            "id": 212911,
+            "title": "The Foundry Cat",
+            "timestamp": "2023-03-01T04:33:29-06:00"
+        },
+        {
+            "_score": 57.436333,
+            "thumbnail": {
+                "alt_text": "A work made of etching and plate tone on ivory laid paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFVQPVpTO2VeQnBqUnpzWo+GYpWMZ5KKaJyTaqeeeqSdfayjfq2kfbCoh8C6n8G7pMzCnMjBpM7HqNDLs9nTs+HZu+DavOHavuTdv+vkyfDpzfHq0PHr0fHr1/Ls1/Tu1PXv2Pjy2/nz3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQNHDEZFUNCFAQGBQbDqExIHR+HgGiwICwgFNLhYKJhMEADs=",
+                "height": 2061
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/104907",
+            "id": 104907,
+            "title": "The Black Cat",
+            "timestamp": "2023-03-01T04:45:36-06:00"
+        },
+        {
+            "_score": 56.213726,
+            "thumbnail": {
+                "alt_text": "A work made of gelatin silver print.",
+                "width": 4872,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFBJPlFKPnpwX391ZYl9bJCEc5aKeZWKepmMepyQf6KVgqKVhNDArdPEsdXFsQAAACH5BAAAAAAALAAAAAADAAUAAAQLEClDRhEBpHWYaxEAOw==",
+                "height": 7407
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/216548",
+            "id": 216548,
+            "title": "Studio Cat",
+            "timestamp": "2023-12-01T12:50:50-06:00"
+        },
+        {
+            "_score": 56.133514,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print; edition 73/200.",
+                "width": 2077,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAD45Mlk+Ml1AM1xXUWlnYX1qYHBwZ4JpW3qDg5mMgKeUhaqUg62Whq2Yha2upQAAACH5BAAAAAAALAAAAAADAAUAAAQL8JQUhhKEAbSMaxEAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/16251",
+            "id": 16251,
+            "title": "Steady Gaze (Two Cats)",
+            "timestamp": "2023-03-01T03:16:16-06:00"
+        },
+        {
+            "_score": 55.54031,
+            "thumbnail": {
+                "alt_text": "A work made of color woodcut on cream japanese paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJiNepuVgqmgi7iolbarmdXJt9jPvNvQvd3UwOHZxuXcyebey+ffy+jfyejgyejgy+rgy+jgzOrizOnhz+rhzuzk0e7m0e7k0u7m1fHo1PPq1fHo1vLq2AAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYCQ1zgNNScRY1TEIgbEpCAEU3EJl2oWFADs=",
+                "height": 2391
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/77593",
+            "id": 77593,
+            "title": "The Puppy-Cat and the Baby",
+            "timestamp": "2023-03-01T03:15:18-06:00"
+        },
+        {
+            "_score": 55.371742,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on cream wove paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHVwXYWAa4uFcI+Jc5GKdZaQe5yVfp6Xf52Wg6CZg6Cag6KbhaWfhqGaiKWfi6igh6igiayjiayki62ljqylka6nkLetlbiwmLmzmrqznMG3nsK4nsO6osO7o8rEqcvEqc3Fqc7FrdfMtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQBGHkDBMNiEKQDDAXBqOQoChqCAyH89h0bFAJKDIQxMEADs=",
+                "height": 2221
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/129610",
+            "id": 129610,
+            "title": "Cat's Cradle",
+            "timestamp": "2023-03-01T04:26:50-06:00"
+        },
+        {
+            "_score": 55.245846,
+            "thumbnail": {
+                "alt_text": "A work made of multi-block woodcut printed with oil-based ink.",
+                "width": 1575,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAG91dISIiIaLiouRkIuQkaGko6GlpaOoqqywr7O3t7m6urm7vL2/v8bIydLT0gAAACH5BAAAAAAALAAAAAADAAUAAAQL0CnWyjIoDXFAIBEAOw==",
+                "height": 3060
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/182785",
+            "id": 182785,
+            "title": "Plants of My Native Place (Jiaxiang de zhiwu)",
+            "timestamp": "2023-03-01T03:15:18-06:00"
+        },
+        {
+            "_score": 54.993656,
+            "thumbnail": {
+                "alt_text": "A work made of gelatin silver print.",
+                "width": 2425,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGRjXXV0a46MfZOSg5WSg5SShJaUhZiVhaCejqSjkayplq6rmLSwmbWznbazn7+9qMG8p8TBqM3KsgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGQIjBMAiJI8UjMUC3EQUAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/198625",
+            "id": 198625,
+            "title": "Cat",
+            "timestamp": "2023-03-01T04:10:32-06:00"
+        },
+        {
+            "_score": 54.956615,
+            "thumbnail": {
+                "alt_text": "A work made of ceramic and pigment.",
+                "width": 1452,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAACwsLEdEQEhISFlUT2NYUZN0W45+cayIa5mSi8u4nsi/ttXNv+Xe0uzr5+3r6AAAACH5BAAAAAAALAAAAAADAAUAAAQLMBAwijAHqbQcaxEAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/91562",
+            "id": 91562,
+            "title": "Vessel in the Form of a Seated Ruler with a Pampas Cat",
+            "timestamp": "2023-11-30T13:54:06-06:00"
+        },
+        {
+            "_score": 54.302162,
+            "thumbnail": {
+                "alt_text": "A work made of etching and drypoint in black on ivory laid paper.",
+                "width": 1675,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPMAAKSilayqnK6rnbOwob66q8K+rsXBscbCssjEs83JuNHLutHMu9HNvNfRvtnTwdvVwiH5BAAAAAAALAAAAAAEAAUAAAQPcB3V1kDviOQMCARzFEgEADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/151471",
+            "id": 151471,
+            "title": "The Child and the Cat",
+            "timestamp": "2023-03-01T04:16:16-06:00"
+        },
+        {
+            "_score": 54.006958,
+            "thumbnail": {
+                "alt_text": "A work made of color lithograph on paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHxNN51qXZxwXp14X5l9Xqd2YZuDZpiJbaKNcqiOc6uReKqYia6biLGWgbCggrKrmaK2kcK3oNO9qc3Hs83KssvPutLGs8PQuc3RvdLUu9XRv9fVxdTYwdXaxNreytzezdzdzt/hzezs3gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQE4ls3hcPhNGQ3CAdCSDQEFh2EQACQcBAdJYKJiQRxQEADs=",
+                "height": 2154
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/156919",
+            "id": 156919,
+            "title": "Mother Cat",
+            "timestamp": "2023-03-01T04:42:16-06:00"
+        },
+        {
+            "_score": 53.860584,
+            "thumbnail": {
+                "alt_text": "A work made of painted plaster.",
+                "width": 1468,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFdTU1RUVmdeW5VzUI6FeaePdIaIiJOKgLadgaOfma6qpMLAvdXU0NXY2+Lk5gAAACH5BAAAAAAALAAAAAADAAUAAAQLMAhgEFHjrJIcaxEAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/59218",
+            "id": 59218,
+            "title": "Seated Cat",
+            "timestamp": "2023-06-20T14:11:00-05:00"
+        },
+        {
+            "_score": 53.42871,
+            "thumbnail": {
+                "alt_text": "A work made of faience.",
+                "width": 1309,
+                "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAHd5d4eNgYWKhZedlpehkZ2llKGolqapmqmrnaarowAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIMAAiyjDpoAgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/135838",
+            "id": 135838,
+            "title": "Amulet of the Goddess Sekhmet",
+            "timestamp": "2023-12-02T23:23:43-06:00"
+        },
+        {
+            "_score": 52.870094,
+            "thumbnail": {
+                "alt_text": "A work made of ceramic and pigment.",
+                "width": 1350,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAABIVFhgXFzUmITsuKj8vKU03MWZVTGhUSIZvXphvWI16Z5mGbsKJXZmUkJ6YkQAAACH5BAAAAAAALAAAAAADAAUAAAQLMAhAyjjJIKbachEAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/9001",
+            "id": 9001,
+            "title": "Stirrup Spout Vessel with Cat and Cactus Motifs",
+            "timestamp": "2023-06-21T11:45:42-05:00"
+        },
+        {
+            "_score": 52.588543,
+            "thumbnail": {
+                "alt_text": "A work made of etching on cream japanese paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAF5NPWpXRW5aRXRbQ3hhSX5mTX9nTYFnS4BnTYFpUIFqUoJqUohvVINvWYtxVYtxVodxW5B1WJJ1WZyEa56Hb6GIbqGJb6qPca6Rc6uQdKuTe6+XfayWfrWVcrCUdbKVdbaZebqdfbWdgbufgryfgLehiceng8eohQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQA4kEzpZGpuRJBHpMAYYzSIAUAgKJAri4SAYDpfSpOIBmT6iIAA7",
+                "height": 1975
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/97452",
+            "id": 97452,
+            "title": "The Virgin and Child with the Cat and the Snake",
+            "timestamp": "2023-12-02T23:16:46-06:00"
+        },
+        {
+            "_score": 52.535614,
+            "thumbnail": {
+                "alt_text": "A work made of salt-glazed stoneware (agateware).",
+                "width": 2070,
+                "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAE1OUU9QVk9RVlFRVFNTVlNWWlZWWVZXWmprcHJ0en18fYB+ent+g4iGhISFi46RlpGSk56dm6GelaKel6GenKqln5mboK6qoruxowAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIFAYxCBMS3Ak0KUgToNJjEVV0RMCADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/216746",
+            "id": 216746,
+            "title": "Cat",
+            "timestamp": "2023-07-14T11:41:05-05:00"
+        },
+        {
+            "_score": 52.36312,
+            "thumbnail": {
+                "alt_text": "A work made of etching on paper.",
+                "width": 3000,
+                "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEI4NUQ8OkY+PVFJR1ZOSldQTF9XVmhhXG9oYXx1b4iCe4iCfJGMg5GMh5aQjZuUkaKbmaKcmKehnbu3rszJxNPQydbTzdjVz9rY0eDb2ePe2+vm4+zn5O3p5e/r5/Ds6fLu6vTx7fn18gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQJClgrlQQpwJQ4FIiDaLQ4HQ+GQAAcHAoOlIIg8HxBMEADs=",
+                "height": 2279
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/97434",
+            "id": 97434,
+            "title": "Cat that Eats Fish",
+            "timestamp": "2023-03-01T04:08:18-06:00"
+        },
+        {
+            "_score": 52.322838,
+            "thumbnail": {
+                "alt_text": "A work made of faience.",
+                "width": 1597,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADxYUl92c2F1b3qAeHeDg3qAgH6Bgn2Ji3uLkIqTi5SWlqClnp2noaWopKeqpgAAACH5BAAAAAAALAAAAAADAAUAAAQLsAxzhELBEcBaWhEAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/135831",
+            "id": 135831,
+            "title": "Amulet of the Goddess Sekhmet",
+            "timestamp": "2023-12-02T23:23:41-06:00"
+        },
+        {
+            "_score": 51.76765,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print; edition 90/100.",
+                "width": 1875,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAFhXSlxdUF1fVWlkVXRwXnhzX3Z0ZHl1YoB3ZIR9Z4B9bYSBbpKNepqSeqGYgAAAACH5BAAAAAAALAAAAAADAAUAAAQLEI1EQFnhKGEcaxEAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/45676",
+            "id": 45676,
+            "title": "Lovesick Cat",
+            "timestamp": "2023-03-01T03:03:50-06:00"
+        },
+        {
+            "_score": 51.319595,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph on ivory china paper.",
+                "width": 2293,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALm4kNDIqdLQq9jUsuLcuuDYvOPcvOPfveXevubgwefgwenhxOnjxOvjxezlye7nyu/pyfDpy/DpzfHqzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYMQkCnQIRhMAxFMMyCQ5SwgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/104305",
+            "id": 104305,
+            "title": "The Birds and the Cat",
+            "timestamp": "2023-03-01T03:08:47-06:00"
+        },
+        {
+            "_score": 51.319595,
+            "thumbnail": {
+                "alt_text": "A work made of etching on paper.",
+                "width": 2629,
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIKBcoWFdoeGd42NfZCQgZOThL29sb6+sr+/tcPDucjIvcnJv8/PxNHRx9LTyNbXzdzd1d7e1d7e1urq4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYHQYUgIEzVIQDyIMDqQwUwgAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/126943",
+            "id": 126943,
+            "title": "Young Girl with Cat",
+            "timestamp": "2023-03-01T04:06:35-06:00"
+        },
+        {
+            "_score": 51.112377,
+            "thumbnail": {
+                "alt_text": "A work made of gelatin silver print, no. 4 from the portfolio \"recent developments\" (1978).",
+                "width": 2085,
+                "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIKFgoWHhIaHhIaIhImLh4yOio2QjJCRjZGTj5OWkpWYlJaYlJudmZ6inamspwAAACH5BAAAAAAALAAAAAADAAUAAAQLULAwElDNLIdOIREAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "https://api.artic.edu/api/v1/artworks/61193",
+            "id": 61193,
+            "title": "Cats and Dogs, Alabama, U.S.A.",
+            "timestamp": "2023-03-01T04:53:41-06:00"
+        }
+    ],
+    "info": {
+        "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.9"
+    },
+    "config": {
+        "iiif_url": "https://www.artic.edu/iiif/2",
+        "website_url": "http://www.artic.edu"
+    }
+}
